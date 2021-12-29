@@ -10,18 +10,6 @@
 ![{LINK_TEXT}]({LINK})
 
 
-https://raw.githubusercontent.com/trimstray/the-book-of-secret-knowledge/master/README.md
-
-https://github.com/bbugyi200/basher/actions/workflows/ci.yml/badge.svg
-https://github.com/bbugyi200/basher/actions/workflows/ci.yml
-
-https://codecov.io/gh/bbugyi200/basher/branch/master/graph/badge.svg
-https://codecov.io/gh/bbugyi200/basher
-https://readthedocs.org/projects/basher/badge/?version=latest
-
-https://basher.readthedocs.io/en/latest/?badge=latest
-
-
 
 ## {HEADER_2}
 * [{LINK_TEXT}]({LINK})
@@ -214,7 +202,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 
 
+https://raw.githubusercontent.com/trimstray/the-book-of-secret-knowledge/master/README.md
 
+https://github.com/bbugyi200/basher/actions/workflows/ci.yml/badge.svg
+https://github.com/bbugyi200/basher/actions/workflows/ci.yml
+
+https://codecov.io/gh/bbugyi200/basher/branch/master/graph/badge.svg
+https://codecov.io/gh/bbugyi200/basher
+https://readthedocs.org/projects/basher/badge/?version=latest
+
+https://basher.readthedocs.io/en/latest/?badge=latest
 https://cirosantilli.com/markdown-style-guide/
 
 - **Fenced code blocks** must be preceded and followed by a newline.
