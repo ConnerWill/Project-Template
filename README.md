@@ -217,5 +217,68 @@ Use this space to list resources you find helpful and would like to give credit 
 
 https://cirosantilli.com/markdown-style-guide/
 
+- **Fenced code blocks** must be preceded and followed by a newline.
+- When used inside _list items_, **fenced code blocks** must be indented as if they were one level deeper that the list item that contains them.
+
+  ````markdown
+  - This list item contains a fenced code block.
+  - Let's show how it might interact with a list.
+
+    ```
+    .code-example {
+      property: value;
+    }
+    ```
+
+  There is a newline above this paragraph because it is both the end of a list and because it follows a fenced code block.
+  ````
+
+- As long as the parser supports it; code blocks should not be denoted with indentation. Using back-ticks is much more explicit than 4 spaces or 1 tab.
+
+## Tables
+
+Like fenced code blocks, tables in Markdown are provided by [Markdown Extra](https://en.wikipedia.org/wiki/Markdown_Extra) which seems to be pretty widely implemented.
+
+- Pipe characters must be preceded and followed by spaces for readability.
+- Table column width should be determined by the longest cell in the column.
+- Always format tables so they are readable in pre-processing.
+
+  ```markdown
+  # This is completely unreadable, although it is technically valid.
+
+  table header | other table header
+  --- | ---
+  table data | other table data
+  ```
+
+- Never use preceding or trailing pipes when writing tables.
+
+  ```markdown
+  | table header | other table header |
+  | ------------ | ------------------ |
+  | table data   | table data         |
+  ```
+
+- Tables must always be preceded and followed by newlines.
+
+### Table example
+
+_This table meets all the criteria:_
+
+```markdown
+Group                     | Domain          | First Appearance
+------------------------- | --------------- | ----------------
+ShinRa                    | Mako Reactors   | FFVII
+Moogles                   | MogNet          | FFIII
+Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU
+```
+
+_A handsome table in pre-processed Markdown is also handsome when rendered:_
+
+Group                     | Domain          | First Appearance
+------------------------- | --------------- | ----------------
+ShinRa                    | Mako Reactors   | FFVII
+Moogles                   | MogNet          | FFIII
+Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU
 
 
