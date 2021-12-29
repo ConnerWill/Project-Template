@@ -1,6 +1,6 @@
 ![{LINK_TEXT}]({LINK})
 
-# {HEADER_1}
+# {HEADER_1a}
 > **[{LINK_TEXT}]({LINK}) extends the functionality of the the *CapsLock* key by allowing unused/annoying keys to be disabled, along with providing formatting of text and text replacement abilities.**
 
 ![{LINK_TEXT}]({LINK})
@@ -33,11 +33,11 @@
    * [{LINK_TEXT}]({LINK})
 * [{LINK_TEXT}]({LINK})
 
-# {HEADER_1}
+# {HEADER_1b}
 This script allows you to set the desired key state of keys on your keyboard; while still allowing you to use those keys without changing settings or killing the script. It also adds a popup menu that can format the currently selected text.
 
 
-# {HEADER_1}
+# {HEADER_1c}
 
 1. Install [{LINK_TEXT}]({LINK}) if you havent already
 2. Clone this repository:
@@ -46,7 +46,7 @@ $  git clone https://github.com/ConnerWill/{PROJECT_NAME}.git
 ```
 3. Run [{LINK_TEXT}]({LINK})
 
-# {HEADER_1}
+# {HEADER_1d}
 
 Run [{LINK_TEXT}]({LINK})*.
 
@@ -63,7 +63,7 @@ Run [{LINK_TEXT}]({LINK})*.
 
 *You can also customize the hotkeys and actions as described in the **"Customizing Hotkeys"** section below.*
 
-# {HEADER_1}
+# {HEADER_1e}
 
 ## {HEADER_2}
 Sometimes abbreviated as <kbd>`CAPS`</kbd> or <kbd>`CAPSLK`</kbd>. Caps Lock is a toggle key on a computer keyboard, when pressed it causes all letters typed to be in uppercase. Allowing you to switch the letters on your keyboard from lowercase to uppercase without holding <kbd>`Shift`</kbd>.
@@ -99,11 +99,11 @@ Key pad key pressed|Num lock enabled|Num lock disabled
 Sometimes abbreviated as <kbd>`ScLk`</kbd>, <kbd>`ScrLk`</kbd>, or <kbd>`Slk`</kbd>, the *'Scroll Lock'* key is found on a computer keyboard, often located close to the pause key. The Scroll Lock key was initially intended to be used in conjunction with the arrow keys to scroll through the contents of a text box. It has also been used to stop the scrolling of text or halt the operation of a program. Today, the key is not often used.
 
 
-# {HEADER_1}
+# {HEADER_1f}
 
 ## {HEADER_2}
 
-# {HEADER_1}
+# {HEADER_1g}
 
 ## {HEADER_2}
 To change the settings/behavior of this script, modify the [{LINK_TEXT}]({LINK}).*
@@ -122,7 +122,7 @@ Variable|Value|Description
 ## {HEADER_2}
 **See [{LINK_TEXT}]({LINK})**
 
-# {HEADER_1}
+# {HEADER_1h}
 
 You can make the script run on every boot with either of these methods.
 
@@ -148,7 +148,7 @@ The task is now registered and will run on the next logon. The task can be viewe
 
 ---
 
-# {HEADER_1}
+# {HEADER_1i}
 *To see debug messages, download [{LINK_TEXT}]({LINK}).*
 
 *Credit to [{LINK_TEXT}]({LINK})*
