@@ -1,8 +1,9 @@
 ![{LINK_TEXT}]({LINK})
 
-# {HEADER_1a}
+# {PROJECT_NAME}
 > **[{LINK_TEXT}]({LINK}) extends the functionality of the the *CapsLock* key by allowing unused/annoying keys to be disabled, along with providing formatting of text and text replacement abilities.**
 
+*badges*
 ![{LINK_TEXT}]({LINK})
 ![{LINK_TEXT}]({LINK})
 ![{LINK_TEXT}]({LINK})
@@ -10,6 +11,8 @@
 ![{LINK_TEXT}]({LINK})
 
 
+# Table of Contents
+====================
 
 ## {HEADER_2}
 * [{LINK_TEXT}]({LINK})
