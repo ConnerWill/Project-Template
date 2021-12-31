@@ -254,9 +254,6 @@ You can also use words, to fit your writing style more closely[^note].
 2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
