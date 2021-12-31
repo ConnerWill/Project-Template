@@ -12,6 +12,10 @@ version badges:
 [![Cookiecutter: cc-python](https://img.shields.io/static/v1?label=cc-python&message=2021.10.03&color=d4aa00&logo=cookiecutter&logoColor=d4aa00)](https://github.com/bbugyi200/cc-python)
 [![Docker: bbugyi/python](https://img.shields.io/static/v1?label=bbugyi%20%2F%20python&message=2021.09.25&color=8ec4ad&logo=docker&logoColor=8ec4ad)](https://github.com/bbugyi200/docker-python)
 
+downloads:
+
+![GitHub all releases](https://img.shields.io/github/downloads/connerwill/CAPshift/total?color=00FF00&label=Downloads&logo=GitHub&logoColor=999999&style=plastic)
+
 tools / frameworks used by test suite (i.e. used by `make test`):
 
 [![Framework: pytest](https://img.shields.io/badge/framework-pytest-a76465)](https://github.com/pytest-dev/pytest)
