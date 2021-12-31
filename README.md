@@ -3,6 +3,16 @@
 # {PROJECT_NAME}
 > **[{LINK_TEXT}]({LINK}) extends the functionality of the the *CapsLock* key by allowing unused/annoying keys to be disabled, along with providing formatting of text and text replacement abilities.**
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/Project-Template)
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/Project-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/Project-Template)
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/Project-Template)
+![GitHub](https://img.shields.io/github/license/ConnerWill/Project-Template)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/Project-Template?style=social)
+
+
+
 *badges*
 ![{LINK_TEXT}]({LINK})
 ![{LINK_TEXT}]({LINK})
