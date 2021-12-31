@@ -20,8 +20,9 @@
 ![{LINK_TEXT}]({LINK})
 ![{LINK_TEXT}]({LINK})
 
-
 # Table of Contents
+<details>
+  <summary>Click to expand!</summary>
 ====================
 
 ## {HEADER_2}
@@ -46,6 +47,10 @@
    * [{LINK_TEXT}]({LINK})
 * [{LINK_TEXT}]({LINK})
 
+
+</details>  
+  
+  
 # {HEADER_1b}
 This script allows you to set the desired key state of keys on your keyboard; while still allowing you to use those keys without changing settings or killing the script. It also adds a popup menu that can format the currently selected text.
 
@@ -211,6 +216,42 @@ You can also use words, to fit your writing style more closely[^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+# A collapsible section containing markdown
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+# A collapsible section containing code
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function logSometing(something) {
+      console.log(`Logging: ${something}`);
+    }
+  ```
+</details>
+
+# How to structure
+```
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```
+**Two important rules:**
+1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
+2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
 
 
 
