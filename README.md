@@ -581,35 +581,6 @@ Maintainers:
 - [calebcartwright](https://github.com/calebcartwright) (core team)
 - [chris48s](https://github.com/chris48s) (core team)
 - [Daniel15](https://github.com/Daniel15) (core team)
-- [paulmelnikow](https://github.com/paulmelnikow) (core team)
-- [platan](https://github.com/platan) (core team)
-- [PyvesB](https://github.com/PyvesB) (core team)
-- [RedSparr0w](https://github.com/RedSparr0w) (core team)
-
-Operations:
-
-- [calebcartwright](https://github.com/calebcartwright)
-- [chris48s](https://github.com/chris48s)
-- [paulmelnikow](https://github.com/paulmelnikow)
-- [PyvesB](https://github.com/PyvesB)
-
-Alumni:
-
-- [espadrine](https://github.com/espadrine)
-- [olivierlacan](https://github.com/olivierlacan)
-
-## License
-
-All assets and code are under the [CC0 LICENSE](LICENSE) and in the public
-domain unless specified otherwise.
-
-The assets in `logo/` are trademarks of their respective companies and are
-under their terms and license.
-
-## Community
-
-Thanks to the people and companies who donate money, services or time to keep the project running. [https://shields.io/community](https://shields.io/community)
-
 
 Here is a simple footnote[^1].
 
