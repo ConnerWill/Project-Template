@@ -117,6 +117,29 @@ Key pad key pressed|Num lock enabled|Num lock disabled
 Sometimes abbreviated as <kbd>`ScLk`</kbd>, <kbd>`ScrLk`</kbd>, or <kbd>`Slk`</kbd>, the *'Scroll Lock'* key is found on a computer keyboard, often located close to the pause key. The Scroll Lock key was initially intended to be used in conjunction with the arrow keys to scroll through the contents of a text box. It has also been used to stop the scrolling of text or halt the operation of a program. Today, the key is not often used.
 
 
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+	<div style="display: inline-block;">
+    <h2>Good</h2>
+    <pre>
+      <code>
+        $ whoami
+        ---
+        ConnerWill
+      </code>
+    </pre>
+  </div>
+	
+  <div style="display: inline-block;">
+    <h2>Bad</h2>
+    <pre>
+      <code>
+        $ sudo rm -f -r /
+      </code>
+    </pre
+  </div>
+</div>
+
 # {HEADER_1f}
 
 ## {HEADER_2}
