@@ -10,6 +10,7 @@
 [![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/Project-Template)
 ![GitHub](https://img.shields.io/github/license/ConnerWill/Project-Template)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/Project-Template?style=social)
+[![Contribution](https://img.shields.io/badge/-help_wanted-brightgreen.svg)](https://github.com/ConnerWill/Project-Template/blob/master)
 
 
 
