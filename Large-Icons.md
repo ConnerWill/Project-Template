@@ -15,3 +15,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
 </div>  
+
+
+
+<a href="https://github.com/DampSock" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=DampSock&&style=flat-square)  
+  
