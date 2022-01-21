@@ -13,6 +13,31 @@
 [![Contribution](https://img.shields.io/badge/-help_wanted-brightgreen.svg)](https://github.com/ConnerWill/Project-Template/blob/master)
 
 
+<div align="center">
+	<a href="https://github.com/ConnerWill">
+	![{LINK_TEXT}]({LINK})
+
+	# {PROJECT-TEMPLATE}
+	> **[{LINK_TEXT}]({LINK}) DESCRIPTION OF THE REPO. Explaing The Function/Main usage of the repo.**
+
+
+	</a>
+</div>
+
+
+<div align="center">
+	<a href="https://github.com/ConnerWill">
+		<img align="center" src="https://img.shields.io/github/last-commit/ConnerWill/Project-Template" />
+		<img align="center" src="https://img.shields.io/github/issues-raw/ConnerWill/Project-Template" />
+		<img align="center" src="https://img.shields.io/github/repo-size/ConnerWill/Project-Template" />
+		<img align="center" src="https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/Project-Template" />
+		<img align="center" src="https://img.shields.io/github/license/ConnerWill/Project-Template" />
+		<img align="center" src="https://img.shields.io/github/stars/ConnerWill/Project-Template?style=social" />
+		<img align="center" src="https://img.shields.io/badge/-help_wanted-brightgreen.svg)](https://github.com/ConnerWill/Project-Template/blob/master" />
+	</a>
+</div>
+
+---
 
 *badges*
 ![{LINK_TEXT}]({LINK})
