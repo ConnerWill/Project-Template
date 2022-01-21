@@ -1,3 +1,94 @@
+<a href="https://github.com/DampSock" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=DampSock&&style=flat-square)  
+  
+
+### *I specialize in cybersecurity, and I like to write scripts for fun pertaining to network security in my free time.*
+### *I also enjoy ricing out Linux computers. I especially like working with Raspberry Pi computers.*
+### *When I'm not writing miscellaneous scripts, I am probably 3D-printing random stuff.*  
+
+<br/>  
+
+
+
+<br/>  
+<br />
+
+<div align="center">
+<img src="https://www.numerama.com/wp-content/uploads/2016/04/torpi.png" align="center" height="" width="800" />
+</div>  
+<br />
+
+
+
+<p align="center">
+    <!-- Main Repo Image/Logo/Icon -->
+    <img src="https://i.pinimg.com/originals/8e/30/6a/8e306a66cb41baa3983d16459c7be85d.png"
+        height="300">
+</p>
+
+<!-- Badges -->
+<p align="center">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <a href="#backers" alt="Backers on Open Collective">
+        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <a href="#sponsors" alt="Sponsors on Open Collective">
+        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://circleci.com/gh/badges/shields/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build stat>
+    <a href="https://circleci.com/gh/badges/daily-tests"  alt="service-test status">
+        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tes">
+    <a href="https://coveralls.io/github/badges/shields" alt="coverage">
+        <img src="https://img.shields.io/coveralls/github/badges/shields">
+    <a href="https://lgtm.com/projects/g/badges/shields/alerts" alt="Total alerts">
+        <img src="https://img.shields.io/lgtm/alerts/g/badges/shields">
+</p>
+
+<!-- Social Media Badges -->
+<p align="center">
+    <a href="https://discord.gg/HjJCwm5" alt="chat on Discord">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord">
+    <a href="https://twitter.com/intent/follow?screen_name=COCOisCOOL1000" alt="follow on Twitter">
+        <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter"     
+</p>
+
+<!-- Tool Badges -->
+<p align="center">
+	<a href="https://github.com/ConnerWill" alt="Linux Badge">
+		 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9467ff">
+	<a href="https://github.com/ConnerWill" alt="Bash Shell Badge">
+		<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9467ff">
+	<a href="https://github.com/ConnerWill" alt="Python Badge">
+		<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9467ff">
+	<a href="https://github.com/ConnerWill" alt="Docker Badge">
+		<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9467ff">
+</p>
+
+
+
+ <!-- Repo Introduction / Description -->
+ Lorem ipsum dolor sit amet, [Shields.io][shields.io] consectetur
+ adipiscing elit. Nam malesuada sodales lacinia. Donec id eros feugiat,
+ gravida eros ut, viverra arcu. Pellentesque habitant morbi
+ tristique senectus et netus et malesuada fames ac turpis egestas.
+ Vestibulum porta mauris at lectus elementum, ut feugiat dui elementum.
+ Phasellus metus lorem, tincidunt non metus vel, aliquet eleifend justo.
+ Nam quis posuere ex. Sed feugiat tristique neque a condimentum.
+ Nulla elementum aliquam nisl, placerat tincidunt diam dapibus at.
+ Duis mollis semper dui ut cursus. Cras malesuada sit amet
+ sem sit amet sagittis. Suspendisse sed purus sollicitudin
+ mi tincidunt viverra id sed ante.Sed nec efficitur orci.
+ Fusce at neque blandit, gravida magna eget, accumsan dui.
+
+
+
+
 ![{LINK_TEXT}]({LINK})
 
 # {PROJECT_NAME}
