@@ -26,6 +26,9 @@
 
 <!-- Social Media Badges -->
 <p align="center">
+    <!-- LinkedIn Badge -->
+    <a href="https://linkedin.com/in/ConnerWill"  alt="LinkedIn">
+        <img src="https://linkedin.com/in/othneildrew">
     <!-- Twitter Badge -->
     <a href="https://twitter.com/intent/follow?screen_name=COCOisCOOL1000" alt="follow on Twitter">
         <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter">
