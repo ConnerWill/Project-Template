@@ -1,8 +1,10 @@
 <p align="center">
+    <!-- Main Repo Image/Logo/Icon -->
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
         height="130">
 </p>
 <p align="center">
+    <!-- Badges -->
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
     <a href="#backers" alt="Backers on Open Collective">
@@ -30,6 +32,7 @@
             alt="follow on Twitter"></a>
 </p>
 
+<!-- Repo Introduction / Description -->
 This is home to [Shields.io][shields.io], a service for concise, consistent,
 and legible badges in SVG and raster format, which can easily be included in
 GitHub readmes or any other web page. The service supports dozens of
@@ -156,6 +159,7 @@ There is documentation about [hosting your own server][self-hosting].
 
 [self-hosting]: https://github.com/badges/shields/blob/master/doc/self-hosting.md
 
+<!-- Related Projects -->
 ## Related projects
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -206,12 +210,15 @@ Maintainers:
 - [chris48s](https://github.com/chris48s) (core team)
 - [Daniel15](https://github.com/Daniel15) (core team)
 
+<!-- Foot Notes -->
+
 Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].  
+A footnote can also have multiple lines[^2].
 
 You can also use words, to fit your writing style more closely[^note].
 
+<!-- Foot Notes References -->
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
