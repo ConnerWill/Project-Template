@@ -26,10 +26,14 @@
 
 <!-- Social Media Badges -->
 <p align="center">
+    <!-- Twitter Badge -->
+    <a href="https://twitter.com/intent/follow?screen_name=COCOisCOOL1000" alt="follow on Twitter">
+        <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter">
+    <!-- Discord Badge
     <a href="https://discord.gg/HjJCwm5" alt="chat on Discord">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord">
-    <a href="https://twitter.com/intent/follow?screen_name=COCOisCOOL1000" alt="follow on Twitter">
-        <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter"     
+    -->
+													 
 </p>
 
 <!-- Tool Badges -->
@@ -42,6 +46,14 @@
 		<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9467ff">
 	<a href="https://github.com/ConnerWill" alt="Docker Badge">
 		<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9467ff">
+</p>
+
+<!-- DIY / IOT Badges --->
+<p align="center">
+	<a href="https://github.com/ConnerWill" alt="Arduino Badge">
+		<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+	<a href="https://github.com/ConnerWill" alt="RaspberryPi Badge">
+		<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 
 
