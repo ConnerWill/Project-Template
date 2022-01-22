@@ -1,2 +1,11 @@
 - name: Generate Documentation
   uses: vargiuscuola/genshdoc@v1.0
+
+
+
+
+
+
+- name: Bash shell beautifier
+  uses: illvart/beautysh-action@v1.0.0
+
