@@ -106,7 +106,29 @@
 	</a>
 </div>
 
+<body>
+  <!-- solid style -->
+  <i class="fa-solid fa-user"></i>
 
+  <!-- regular style -->
+  <i class="fa-regular fa-user"></i>
+
+  <!-- light style -->
+  <i class="fa-light fa-user"></i>
+
+  <!-- duotone style -->
+  <i class="fa-duotone fa-user"></i>
+
+  <!-- all new thin style -->
+  <i class="fa-thin fa-user"></i>
+
+  <!--brand icon-->
+  <i class="fa-github-square fa-brands"></i>
+</body>
+    
+    
+    
+    
 <div align="center">
 	<a href="https://github.com/ConnerWill">
 		<img align="center" src="https://img.shields.io/github/last-commit/ConnerWill/Project-Template" />
