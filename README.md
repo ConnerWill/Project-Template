@@ -252,7 +252,25 @@ Sometimes atristique neque a condimentum.
  Fusce at neque blandit, gravida magna eget, accumsan dui.
 
 
+<body>
+  <!-- solid style -->
+  <i class="fa-solid fa-user"></i>
 
+  <!-- regular style -->
+  <i class="fa-regular fa-user"></i>
+
+  <!-- light style -->
+  <i class="fa-light fa-user"></i>
+
+  <!-- duotone style -->
+  <i class="fa-duotone fa-user"></i>
+
+  <!-- all new thin style -->
+  <i class="fa-thin fa-user"></i>
+
+  <!--brand icon-->
+  <i class="fa-github-square fa-brands"></i>
+</body>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
 	<div style="display: inline-block;">
