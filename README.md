@@ -15,7 +15,7 @@
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build stat>
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master">
     <a href="https://circleci.com/gh/badges/daily-tests"  alt="service-test status">
         <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tes">
     <a href="https://coveralls.io/github/badges/shields" alt="coverage">
@@ -23,7 +23,7 @@
     <a href="https://lgtm.com/projects/g/badges/shields/alerts" alt="Total alerts">
         <img src="https://img.shields.io/lgtm/alerts/g/badges/shields">
 </p>
-
+      
 <!-- Social Media Badges -->
 <p align="center">
     <!-- LinkedIn Badge -->
@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
     <!-- Twitter Badge -->
     <a href="https://twitter.com/intent/follow?screen_name=COCOisCOOL1000" alt="follow on Twitter">
-        <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter">
+        <img src="https://img.shields.io/twitter/follow/COCOisCOOL1000?style=social&logo=twitter"/>
     <!-- Discord Badge
     <a href="https://discord.gg/HjJCwm5" alt="chat on Discord">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord">
@@ -47,22 +47,23 @@
 		<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9467ff">
 	<a href="https://github.com/ConnerWill" alt="Python Badge">
 		<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9467ff">
-	<a href="https://github.com/ConnerWill" alt="Docker Badge">
-		<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9467ff">
+	<a href="https://github.com/ConnerWill" alt="Docker Badge"/>
+		<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9467ff"/>
+
 </p>
 
-<!-- DIY / IOT Badges --->
+<!-- DIY / IOT Badges -->
 <p align="center">
 	<a href="https://github.com/ConnerWill" alt="Arduino Badge">
 		<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-	<a href="https://github.com/ConnerWill" alt="RaspberryPi Badge">
+	<a href="https://github.com/ConnerWill" alt="RaspberryPi Badge"/>
 		<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 
 
 
  <!-- Repo Introduction / Description -->
- Lorem ipsum dolor sit amet, [Shields.io][shields.io] consectetur
+ Lorem ipsum dolor sit amet,] consectetur
  adipiscing elit. Nam malesuada sodales lacinia. Donec id eros feugiat,
  gravida eros ut, viverra arcu. Pellentesque habitant morbi
  tristique senectus et netus et malesuada fames ac turpis egestas.
@@ -158,7 +159,7 @@
   
   
 # {HEADER_1b}
-This script allows you to set the desired key state of keys on your keyboard; while still allowing you to use those keys without changing settings or killing the script. It also adds a popup menu that can format the currently selected text.
+uris at lectus elementum, ut feugiat dui elementum. Phasellus metus lorem, tincidunt non metus vel, aliquet eleifend justo.  Nam quis posuere ex. Sed feugiat tristique neque a condimentum.Nulla elementum aliquam nisl, placerat tincidunt
 
 
 # {HEADER_1c}
@@ -174,38 +175,27 @@ $  git clone https://github.com/ConnerWill/{PROJECT_NAME}.git
 
 Run [{LINK_TEXT}]({LINK})*.
 
-*Holding* <kbd>`CapsLock`</kbd> for `0.5` seconds toggles CapsLock **ON** or **OFF**
-
-**Holding** <kbd>`CapsLock`</kbd>** for `1` second *({LINK})*  displays a popup tooltip menu.|<kbd>`CapsLock`</kbd>|`1`
-
-**Holding** <kbd>`F1`</kbd> for `0.5` seconds *({LINK})* presses <kbd>`F1`</kbd> once.|<kbd>`F1`</kbd>|`0.5`
-
-**Holding** <kbd>`NumLock`</kbd> for `0.5` seconds *({LINK})*|<kbd>`NumLock`</kbd> |`0.5`
-
-**Holding** <kbd>`ScrollLock`</kbd> for `0.5` seconds *({LINK})* toggles CapsLock **ON** or **OFF**|<kbd>`ScrollLock`</kbd>|`0.5`
-
-
-*You can also customize the hotkeys and actions as described in the **"Customizing Hotkeys"** section below.*
+<kbd>`delete`</kbd>
+    
+uris at lectus elementum, ut feugiat dui elementum. Phasellus metus lorem, tincidunt non metus vel, aliquet eleifend justo.  Nam quis posuere ex. Sed feugiat tristique neque a condimentum.Nulla elementum aliquam nisl, placerat tincidunt
+    
+    
+* Phasellus metus lorem, tincidunt non metus vel.*
 
 # {HEADER_1e}
 
 ## {HEADER_2}
-Sometimes abbreviated as <kbd>`CAPS`</kbd> or <kbd>`CAPSLK`</kbd>. Caps Lock is a toggle key on a computer keyboard, when pressed it causes all letters typed to be in uppercase. Allowing you to switch the letters on your keyboard from lowercase to uppercase without holding <kbd>`Shift`</kbd>.
+Nam quis posuere ex. Sed feugiat tristique neque a condimentum.Nulla elementum aliquam nisl, placerat tincidunt
 
-If you press the Caps Lock key, every letter you type on the keyboard will be automatically capitalized until you press it again to disable it.
-
-For example, when Caps Lock is enabled, the typed letters appear "**LIKE THIS**". When disabled, they appear "**like this**".
+quis posuere ex. Sed feugiat tristique neque a condimentum.Nulla elementum aliquam nisl, placerat tincidunt
 
 ## {HEADER_2}
-Short for numeric lock or number lock, the Num key, Num Lock, or Num Lk key is on the top-left corner of a keyboard's numeric keypad. The Num Lock key enables and disables the numeric pad.
-
-When *'Num Lock'* is enabled, you can use the numbers on the keypad. When *'Num Lock'* is disabled, pressing those keys activates those key's alternate function. For instance, the arrow keys on the keypad may only be used if *'Num Lock'* is disabled.
-
-**Num lock keys:**
-
-Below is a chart with additional information about what each numeric keypad key does when *'Num Lock'* is enabled and disabled. For example, pressing the <kbd>`2`</kbd> key on the numeric keypad when *'Num Lock'* is enabled enters the number <kbd>`2`</kbd>, and when *'Num Lock'* is off, it will arrow down one line.
-
-Key pad key pressed|Num lock enabled|Num lock disabled
+feugiat tristique neque a condimentum.
+ Nulla elementum aliquam nisl, placerat tincidunt diam dapibus at.
+    
+ Duis mollis semper dui ut cursus. Cras malesuada sit amet
+ sem sit amet sagittis. Suspendisse sed purus soll
+    
 --- | :-: | :-:
 <kbd>`0`</kbd>|0|Ins
 <kbd>`1`</kbd>|1|End
@@ -220,7 +210,22 @@ Key pad key pressed|Num lock enabled|Num lock disabled
 <kbd>`.`</kbd>|.|Del
 
 ## {HEADER_2}
-Sometimes abbreviated as <kbd>`ScLk`</kbd>, <kbd>`ScrLk`</kbd>, or <kbd>`Slk`</kbd>, the *'Scroll Lock'* key is found on a computer keyboard, often located close to the pause key. The Scroll Lock key was initially intended to be used in conjunction with the arrow keys to scroll through the contents of a text box. It has also been used to stop the scrolling of text or halt the operation of a program. Today, the key is not often used.
+Sometimes atristique neque a condimentum.
+ Nulla elementum aliquam nisl, placerat tincidunt diam dapibus at.
+ Duis mollis semper dui ut cursus. Cras malesuada sit amet
+ sem sit amet sagittis.
+ 
+ Suspendisse sed purus sollicitudin
+ mi tincidunt viverra id sed ante.Sed nec efficitur orci.
+ Fusce at neque blandit, gravida magna eget, accumsan dui.
+ neque a condimentum.
+    
+ Nulla elementum aliquam nisl, placerat tincidunt diam dapibus at.
+ Duis mollis semper dui ut cursus. Cras malesuada sit amet
+ sem sit amet sagittis. Suspendisse sed purus sollicitudin
+ mi tincidunt viverra id sed ante.Sed nec efficitur orci.
+ Fusce at neque blandit, gravida magna eget, accumsan dui.
+
 
 
 
@@ -253,16 +258,11 @@ Sometimes abbreviated as <kbd>`ScLk`</kbd>, <kbd>`ScrLk`</kbd>, or <kbd>`Slk`</k
 # {HEADER_1g}
 
 ## {HEADER_2}
-To change the settings/behavior of this script, modify the [{LINK_TEXT}]({LINK}).*
-
-If the configuration file does not exist, isn't referenced, or is not in the same folder as [{LINK_TEXT}]({LINK}), the configuration file will be automatically generated.
+Sometimes atristique r orci. Fusce at neque blandit, gravida magna eget, accumsan dui.
 
 **Note:*
 
-*A more detailed description of hotkeys can be found here: [{LINK_TEXT}]({LINK}).*<br>
-
-*After any changes to the [{LINK_TEXT}]({LINK}) configuration file, the program needs to be closed and opened again.*
-
+*A more detailed description can be found here: [{LINK_TEXT}]({LINK}).*<br>
 
 ## {HEADER_2}
 Variable|Value|Description
