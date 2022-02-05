@@ -79,7 +79,6 @@
 
 
 
-
 ![{LINK_TEXT}]({LINK})
 
 # {PROJECT_NAME}
@@ -93,6 +92,10 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/Project-Template)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/Project-Template?style=social)
 [![Contribution](https://img.shields.io/badge/-help_wanted-brightgreen.svg)](https://github.com/ConnerWill/Project-Template/blob/master)
+[![Donate Monero](https://img.shields.io/badge/Monero-Address-orange]()]
+  
+  
+  ?style=plastic&logo=monero](https://github.com/ConnerWill/Project-Template)
 
 
 <div align="center">
