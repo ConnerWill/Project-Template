@@ -1,4 +1,7 @@
 :neckbeard:
+
+[gist.github.com/DampSock/ASCII-Computers](https://gist.github.com/DampSock/3eadea2a27e32e618ab13254443adc4d)
+
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
 &lt;!--
     Source:    https://www.asciiart.eu/computers
