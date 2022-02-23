@@ -35,35 +35,27 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
 </a>
 
-
-
-<p>
+<a href="https://github.com/ConnerWill/zi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/ConnerWill/zi">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
-
 </a>
 
-<a href="https://github.com/ConnerWill/community">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnerWill&repo=commu
-nity&card_width=150&theme=github_dark" />
+<a href="https://github.com/ConnerWill/zi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ConnerWill/wiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnerWill&repo=wiki&
-card_width=150&theme=github_dark" />
+<a href="https://github.com/ConnerWill/zi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ConnerWill/zannexes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnerWill&repo=zanne
-xes&card_width=150&theme=github_dark" />
+<a href="https://github.com/ConnerWill/zi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connerwill&repo=CAPshift&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ConnerWill/zpackages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnerWill&repo=zpack
-ages&card_width=150&theme=github_dark" />
-</a>
+  
 </p>
 
 </div>
