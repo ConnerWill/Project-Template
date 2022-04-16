@@ -1,37 +1,37 @@
 <div align="center">
 
-<img width="480" height="320" src="/media/rclone-fzf-banner.png">
+<img width="480" height="320" src="/media/{{repo_name}}-banner.png">
 
-# **rclone-fzf**
+# **{{repo_name}}**
 
 ### **fzf for rclone**
 > *[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
   
   
-![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/fzf-rclone)
-![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/fzf-rclone)
-![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/fzf-rclone)
-[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/fzf-rclone)
-![GitHub](https://img.shields.io/github/license/ConnerWill/fzf-rclone)
-![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/fzf-rclone?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}})
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/{{repo_name}})
+![GitHub](https://img.shields.io/github/license/ConnerWill/{{repo_name}})
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social)
 
 ---
 </div>
 
 # Table of Contents
 <details>
-  <summary>Click to expand table of contents</summary>
+  <summary>Expand Table of Contents</summary>
 
   ---
   
-* [rclone-fzf](#rclone-fzf)
+* [{{repo_name}}](#{{repo_name}})
 * [Table of Contents](#table-of-contents)
 * [Overview](#overview)
   * [Description](##description)
   * [Demo](##demo)
 * [Installation](#installation)
   * [Dependencies](##dependencies)
-    * [rclone Installation](###rclone-installation)
+    * [Dependency-1-Installation](###dependency-1-installation)
     * [fzf Installation](###fzf-installation)
   * [Setup](##setup)
 * [Usage](#usage)
@@ -59,23 +59,15 @@
 
 ## Dependencies
 
-* rclone
-* fzf
-
-### rclone Installation
-
-1. Install rclone and [configure rclone remote](https://rclone.org/docs/#configure)
-
-### fzf Installation
-
-2. Install [fzf](https://github.com/junegunn/fzf)
+* dependency-1
+* dependency-2
 
 ## Setup
 
 1. Clone this repository
 
 ```console
-git clone https://github.com/ConnerWill/rclone-fzf.git
+git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -163,13 +155,6 @@ You can also use words, to fit your writing style more closely[^note].
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
 --->
-[^rclone]:    
-    [rclone website](https://rclone.org)
-    [rclone github](https://github.com/rclone/rclone)
-    
-   
-   <!--- Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a diffeorent syntax using 4 spaces for new --->
 
 
 
