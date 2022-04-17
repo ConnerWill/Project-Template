@@ -86,17 +86,14 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 ## Environment Variables
 
 **```ENVVAR```**
-: environment variable description.
+: *<kbd>string</kbd>*
+: environment variable description. 
 
 **```ENVVAR2```**
-: environment variable description. ***[string]***
-*(eg. remoteName:, remoteName)*
+: *<kbd>bool</kbd>*
+: environment variable description.
+> *(eg. remoteName:, remoteName)*
 
-**```ENVVAR```**
-: environment variable description. ***[bool]***
-
-**```ENVVAR```**
-: environment variable description. ***[string]***
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
