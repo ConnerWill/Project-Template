@@ -103,7 +103,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>DEL</kbd>
 <kbd>`CTRL`</kbd>
 <kbd>```CTRL```</kbd>
-<kbd>```</kbd>|
+*<kbd>`</kbd>*
 
 --- | :-: | :-:
 <kbd>`0`</kbd>|0|Ins
