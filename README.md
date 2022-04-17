@@ -103,20 +103,13 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>DEL</kbd>
 <kbd>`CTRL`</kbd>
 <kbd>```CTRL```</kbd>
+<kbd>`↓`</kbd>
+<kbd>`←`</kbd>
+<kbd>`→`</kbd>
+<kbd>`↑`</kbd>
 *<kbd>`</kbd>*
 
---- | :-: | :-:
-<kbd>`0`</kbd>|0|Ins
-<kbd>`1`</kbd>|1|End
-<kbd>`2`</kbd>|2|↓
-<kbd>`3`</kbd>|3|PgDn
-<kbd>`4`</kbd>|4|←
-<kbd>`5`</kbd>|5|Nothing
-<kbd>`6`</kbd>|6|→
-<kbd>`7`</kbd>|7|Home
-<kbd>`8`</kbd>|8|↑
-<kbd>`9`</kbd>|9|PgUp
-<kbd>`.`</kbd>|.|Del
+
 
 
 
