@@ -83,6 +83,28 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ### Hotkeys
 
+<kbd>CTRL</kbd>
+<kbd>ALT</kbd>
+<kbd>SHIFT</kbd>
+<kbd>CAPSLOCK</kbd>
+<kbd>ENTER</kbd>
+<kbd>RETURN</kbd>
+<kbd>FN</kbd>
+<kbd>~</kbd>
+<kbd>TAB</kbd>
+<kbd>F1</kbd>
+<kbd>BACKSPACE</kbd>
+<kbd>HOME</kbd>
+<kbd>END</kbd>
+<kbd>PgUp</kbd>
+<kbd>PgDn</kbd>
+<kbd>INSERT</kbd>
+<kbd>DELETE</kbd>
+<kbd>DEL</kbd>
+<kbd>CTRL</kbd>
+<kbd>CTRL</kbd>
+<kbd>CTRL</kbd>
+
 ## Environment Variables
 
 > *(eg. remoteName:, remoteName)*
