@@ -164,31 +164,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 </details>  
 
-rclone links[^rclone]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!---
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-
-<details>
-  <summary>Click to expand table of contents</summary>
-
-  ---
-
----
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
---->
-
 ---
 
 <div align="center">
