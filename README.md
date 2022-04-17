@@ -4,9 +4,10 @@
 
 # **{{repo_name}}**
 
-### **fzf for rclone**
-> *[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
+### **{{repo_name}}**
+> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
   
+ 
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
@@ -32,7 +33,6 @@
 * [Installation](#installation)
   * [Dependencies](##dependencies)
     * [Dependency-1-Installation](###dependency-1-installation)
-    * [fzf Installation](###fzf-installation)
   * [Setup](##setup)
 * [Usage](#usage)
 * [Customization](#customization)
@@ -84,23 +84,18 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ## Environment Variables
 
-**```RCLONEFZF_ENVVAR```**
-: rclone-fzf environment variable description.
+**```ENVVAR```**
+: environment variable description.
 
-**```RCLONEFZF_REMOTE```**
-: rclone remote to use by default. ***[string]***
+**```ENVVAR2```**
+: environment variable description. ***[string]***
 *(eg. remoteName:, remoteName)*
 
-**```RCLONEFZF_ENVVAR```**
-: rclone-fzf environment variable description. ***[string]***
+**```ENVVAR```**
+: environment variable description. ***[bool]***
 
-**```RCLONEFZF_ENVVAR```**
-: rclone-fzf environment variable description. ***[string]***
-
-**```RCLONEFZF_ENVVAR```**
-: rclone-fzf environment variable description. ***[string]***
-
-
+**```ENVVAR```**
+: environment variable description. ***[string]***
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
