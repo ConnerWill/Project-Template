@@ -7,7 +7,7 @@
 # **{{repo_name}}**
 
 ### **{{repo_name}}**
-> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
+> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)
   
  
   
