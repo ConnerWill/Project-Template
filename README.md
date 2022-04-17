@@ -5,11 +5,10 @@
   <img width="480" height="320" src="/media/banner.png">
 
 # **{{repo_name}}**
-
-### **{{repo_name}}**
+  
 > *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)*
   
- 
+### **{{repo_name}}** 
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
