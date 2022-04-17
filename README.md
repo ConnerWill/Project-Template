@@ -7,7 +7,7 @@
 # **{{repo_name}}**
 
 ### **{{repo_name}}**
-> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)
+> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)*
   
  
   
