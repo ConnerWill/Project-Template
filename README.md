@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="480" height="320" src="/media/{{repo_name}}-banner.png">
+<!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
+  
+  <img width="480" height="320" src="/media/banner.png">
 
 # **{{repo_name}}**
 
