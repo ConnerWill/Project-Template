@@ -152,6 +152,7 @@ You can also use words, to fit your writing style more closely[^note].
   This allows you to have a footnote with multiple lines.
 --->
 
+---
 
 <div align="center">
 ### **{{repo_name}}** 
