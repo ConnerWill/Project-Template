@@ -8,7 +8,7 @@
   
 > *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)*
   
-### **{{repo_name}}** 
+
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
@@ -153,4 +153,4 @@ You can also use words, to fit your writing style more closely[^note].
 --->
 
 
-
+### **{{repo_name}}** 
