@@ -153,4 +153,10 @@ You can also use words, to fit your writing style more closely[^note].
 --->
 
 
+<div align="center">
 ### **{{repo_name}}** 
+  
+> *Bottom Text*
+  
+---
+</div>
