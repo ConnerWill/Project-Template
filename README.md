@@ -6,7 +6,7 @@
 
 # **{{repo_name}}**
   
-> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)*
+> *[*{{repo_name}}*](https://example.com)*
   
 
   
@@ -117,7 +117,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ## Environment Variables
 
-> *(eg. remoteName:, remoteName)*
+> *(https://example.com)*
 
 **```ENVVAR```**
 : *<kbd>string</kbd>*
@@ -194,15 +194,15 @@ LOWERRIGHT_CONTENT="test"
   <summary>Expand Small Table</summary>
 
 
-| xxh-shell                                                             | status     | [xxh-plugins](https://github.com/xxh/xxh/wiki#plugins) | [seamless](https://github.com/xxh/xxh/wiki#seamless-mode) | demo |
+| xxh-shell                                                             | status     | [something](https://example.com) | demo |
 |-----------------------------------------------------------------------|------------|-------------|---------|------|
-| **[xonsh](https://github.com/xxh/xxh-shell-xonsh)**                   | stable     | [autojump](https://github.com/xxh/xxh-plugin-xonsh-autojump), [[+]](https://github.com/xxh/xxh-plugin-xonsh-example) | `xxh.xsh` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> | 
-| **[zsh](https://github.com/xxh/xxh-shell-zsh)**                       | stable     | [ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh), [p10k](https://github.com/xxh/xxh-plugin-zsh-powerlevel10k), [[+]](https://github.com/xxh/xxh-plugin-zsh-example)  | `xxh.zsh`   |  <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |
-| **[fish](https://github.com/xxh/xxh-shell-fish)**                     | stable     | [ohmyfish](https://github.com/xxh/xxh-plugin-fish-ohmyfish), [fisher](https://github.com/xxh/xxh-plugin-fish-fisher), [userconfig](https://github.com/xxh/xxh-plugin-fish-userconfig), [[+]](https://github.com/xxh/xxh-plugin-fish-example) | [todo](https://github.com/xxh/xxh/issues/74) |
-| **[bash](https://github.com/xxh/xxh-shell-bash)**                     | stable     | [ohmybash](https://github.com/xxh/xxh-plugin-bash-ohmybash), [[+]](https://github.com/xxh/xxh-plugin-bash-example) | `xxh.bash`  | <a href="https://asciinema.org/a/314508" target="_blank">demo</a> |
-| **[osquery](https://github.com/xxh/xxh-shell-osquery)**               | beta       |             | | |
-| **[fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage)**   | alpha      |             | | |
-| **[elvish](https://github.com/krageon/xxh-shell-elvish)**   | alpha      |             | | |
+| **[something](https://example.com) | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> | 
+| **[something](https://example.com) | `content`   |  <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |
+| **[something](https://example.com) |
+| **[something](https://example.com) | `content`  | <a href="https://asciinema.org/a/314508" target="_blank">demo</a> |
+| **[something](https://example.com)**               | beta       |             | | |
+| **[something](https://example.com)** | alpha      |             | | |
+| **[something](https://example.com)** | alpha      |             | | |
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
