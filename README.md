@@ -166,7 +166,9 @@ LOWERRIGHT_CONTENT="test"
 --->
 
 
+
 <div align="center">
+</div>
 
 <table border="0" width="100%">
 <col style="width:33%">
@@ -198,6 +200,8 @@ LOWERRIGHT_CONTENT="test"
   <summary>Expand Small Table</summary>
 
 
+<div align="center">
+
 | xxh-shell                            | status    | [something](https://example.com)                                                     | demo |   |
 |--------------------------------------|-----------|--------------------------------------------------------------------------------------|------|---|
 | **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> |      |   |
@@ -208,6 +212,8 @@ LOWERRIGHT_CONTENT="test"
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 
+
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
