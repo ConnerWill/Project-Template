@@ -137,6 +137,60 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+# Tables
+
+### Large
+
+<details>
+  <summary>Expand Large Table</summary>
+
+<table border="0" width="100%">
+<col style="width:33%">
+<col style="width:33%">
+<col style="width:33%">
+<tbody>
+<tr style="border: 0px !important;">
+<td valign="top" style="border: 0px !important;"><b>Portable</b>. Preparing portable shells and plugins occurs locally and then xxh uploads the result to the host. No installations or root access on the host required. Security and host environment a prime focus.</td>
+<td valign="top" style="border: 0px !important;"><b>Hermetic</b>. Deleting <code>~/.xxh</code> directory from the remote host will make the remote environment function as if xxh was never there. By default your home is the <code>.xxh</code> directory and you can <a href="https://github.com/xxh/xxh/wiki#how-to-set-homeuser-as-home-on-host">choose the hermetic level of your xxh session</a>.</td>
+<td valign="top" style="border: 0px !important;"><b>Careful</b>. No blindfold copying config files from local to remote host. Following privacy and repeatability practices the best way is to fork the xxh plugin or shell example and pack your configs into it. </td>
+</tr>
+<tr style="border: 0px !important;">
+<td valign="top" style="border: 0px !important;"><b>Be open and fork-ready</b>. Every xxh repo could be forked, customized and reused without waiting for a package management system, xxh release or any third party packages. Five shells are currently supported and more could be added by the community.</td>
+<td valign="top" style="border: 0px !important;"><b>Do more</b>. The xxh packages are not only about shells. Any type of tool or code could be behind an entrypoint. If you want to run <a href="https://github.com/browsh-org/browsh">browsh</a> on the remote host, just put its portable version as an entrypoint in the xxh-shell.</td>
+<td valign="top" style="border: 0px !important;"><b>Chameleon</b>. Switching the shells is as easy as possible and you don't have to be locked in to one shell. Choose your current shell based on the task you want to solve: <code>xxh anyhost +s xonsh</code> for a python environment, osquery for simple querying, fish for modern features or time-tested zsh and bash for speed. </td>   
+</tr>
+</tbody>
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+</details>  
+
+
+### Small
+
+<details>
+  <summary>Expand Small Table</summary>
+
+
+| xxh-shell                                                             | status     | [xxh-plugins](https://github.com/xxh/xxh/wiki#plugins) | [seamless](https://github.com/xxh/xxh/wiki#seamless-mode) | demo |
+|-----------------------------------------------------------------------|------------|-------------|---------|------|
+| **[xonsh](https://github.com/xxh/xxh-shell-xonsh)**                   | stable     | [autojump](https://github.com/xxh/xxh-plugin-xonsh-autojump), [[+]](https://github.com/xxh/xxh-plugin-xonsh-example) | `xxh.xsh` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> | 
+| **[zsh](https://github.com/xxh/xxh-shell-zsh)**                       | stable     | [ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh), [p10k](https://github.com/xxh/xxh-plugin-zsh-powerlevel10k), [[+]](https://github.com/xxh/xxh-plugin-zsh-example)  | `xxh.zsh`   |  <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |
+| **[fish](https://github.com/xxh/xxh-shell-fish)**                     | stable     | [ohmyfish](https://github.com/xxh/xxh-plugin-fish-ohmyfish), [fisher](https://github.com/xxh/xxh-plugin-fish-fisher), [userconfig](https://github.com/xxh/xxh-plugin-fish-userconfig), [[+]](https://github.com/xxh/xxh-plugin-fish-example) | [todo](https://github.com/xxh/xxh/issues/74) |
+| **[bash](https://github.com/xxh/xxh-shell-bash)**                     | stable     | [ohmybash](https://github.com/xxh/xxh-plugin-bash-ohmybash), [[+]](https://github.com/xxh/xxh-plugin-bash-example) | `xxh.bash`  | <a href="https://asciinema.org/a/314508" target="_blank">demo</a> |
+| **[osquery](https://github.com/xxh/xxh-shell-osquery)**               | beta       |             | | |
+| **[fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage)**   | alpha      |             | | |
+| **[elvish](https://github.com/krageon/xxh-shell-elvish)**   | alpha      |             | | |
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+</details>  
+
+
+
 # Other
 
 <p align="right">(<a href="#top">back to top</a>)</p>
