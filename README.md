@@ -166,6 +166,8 @@ LOWERRIGHT_CONTENT="test"
 --->
 
 
+<div align="center">
+
 <table border="0" width="100%">
 <col style="width:33%">
 <col style="width:33%">
@@ -182,6 +184,8 @@ LOWERRIGHT_CONTENT="test"
 <td valign="top" style="border: 0px !important;"><b>$LOWERRIGHT_TITLE</b>$LOWERRIGHT_CONTENT</td></tr>
 </tbody>
 </table>
+
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
