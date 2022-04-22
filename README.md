@@ -194,15 +194,15 @@ LOWERRIGHT_CONTENT="test"
   <summary>Expand Small Table</summary>
 
 
-| xxh-shell                                                             | status     | [something](https://example.com) | demo |
-|-----------------------------------------------------------------------|------------|-------------|---------|------|
-| **[something](https://example.com) | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> | 
-| **[something](https://example.com) | `content`   |  <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |
-| **[something](https://example.com) |
-| **[something](https://example.com) | `content`  | <a href="https://asciinema.org/a/314508" target="_blank">demo</a> |
-| **[something](https://example.com)**               | beta       |             | | |
-| **[something](https://example.com)** | alpha      |             | | |
-| **[something](https://example.com)** | alpha      |             | | |
+| xxh-shell                            | status    | [something](https://example.com)                                                     | demo |   |
+|--------------------------------------|-----------|--------------------------------------------------------------------------------------|------|---|
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> |      |   |
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |      |   |
+| **[something](https://example.com)   |           |                                                                                      |      |   |
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/314508" target="_blank">demo</a>                    |      |   |
+| **[something](https://example.com)** | beta      |                                                                                      |      |   |
+| **[something](https://example.com)** | alpha     |                                                                                      |      |   |
+| **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
