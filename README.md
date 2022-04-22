@@ -166,9 +166,7 @@ LOWERRIGHT_CONTENT="test"
 --->
 
 
-
 <div align="center">
-</div>
 
 <table border="0" width="100%">
 <col style="width:33%">
