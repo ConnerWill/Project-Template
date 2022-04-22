@@ -145,21 +145,41 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <details>
   <summary>Expand Large Table</summary>
 
+<!---
+UPPERLEFT_TITLE="TEST"
+UPPERLEFT_CONTENT="test"
+
+UPPERMIDDLE_TITLE="TEST"
+UPPERMIDDLE_CONTENT="TEST"
+
+UPPERRIGHT_TITLE="TEST"
+UPPERRIGHT_CONTENT="test"
+
+LOWERLEFT_TITLE="TEST"
+LOWERLEFT_CONTENT="test"
+
+LOWERMIDDLE_TITLE="TEST"
+LOWERMIDDLE_CONTENT="test"
+
+LOWERRIGHT_TITLE="TEST"
+LOWERRIGHT_CONTENT="test"
+--->
+
+
 <table border="0" width="100%">
 <col style="width:33%">
 <col style="width:33%">
 <col style="width:33%">
 <tbody>
 <tr style="border: 0px !important;">
-<td valign="top" style="border: 0px !important;"><b>Portable</b>. Preparing portable shells and plugins occurs locally and then xxh uploads the result to the host. No installations or root access on the host required. Security and host environment a prime focus.</td>
-<td valign="top" style="border: 0px !important;"><b>Hermetic</b>. Deleting <code>~/.xxh</code> directory from the remote host will make the remote environment function as if xxh was never there. By default your home is the <code>.xxh</code> directory and you can <a href="https://github.com/xxh/xxh/wiki#how-to-set-homeuser-as-home-on-host">choose the hermetic level of your xxh session</a>.</td>
-<td valign="top" style="border: 0px !important;"><b>Careful</b>. No blindfold copying config files from local to remote host. Following privacy and repeatability practices the best way is to fork the xxh plugin or shell example and pack your configs into it. </td>
+<td valign="top" style="border: 0px !important;"><b>$UPPERLEFT_TITLE</b>$UPPERLEFT_CONTENT</td>
+<td valign="top" style="border: 0px !important;"><b>$UPPERMIDDLE_TITLE</b>$UPPERMIDDLE_CONTENT</td>
+<td valign="top" style="border: 0px !important;"><b>$UPPERRIGHT_TITLE</b>$UPPERRIGHT_CONTENT</td>
 </tr>
 <tr style="border: 0px !important;">
-<td valign="top" style="border: 0px !important;"><b>Be open and fork-ready</b>. Every xxh repo could be forked, customized and reused without waiting for a package management system, xxh release or any third party packages. Five shells are currently supported and more could be added by the community.</td>
-<td valign="top" style="border: 0px !important;"><b>Do more</b>. The xxh packages are not only about shells. Any type of tool or code could be behind an entrypoint. If you want to run <a href="https://github.com/browsh-org/browsh">browsh</a> on the remote host, just put its portable version as an entrypoint in the xxh-shell.</td>
-<td valign="top" style="border: 0px !important;"><b>Chameleon</b>. Switching the shells is as easy as possible and you don't have to be locked in to one shell. Choose your current shell based on the task you want to solve: <code>xxh anyhost +s xonsh</code> for a python environment, osquery for simple querying, fish for modern features or time-tested zsh and bash for speed. </td>   
-</tr>
+<td valign="top" style="border: 0px !important;"><b>$LOWERLEFT_TITLE</b>$LOWERLEFT_CONTENT</td>
+<td valign="top" style="border: 0px !important;"><b>$LOWERMIDDLE_TITLE</b>$LOWERMIDDLE_CONTENT</td>
+<td valign="top" style="border: 0px !important;"><b>$LOWERRIGHT_TITLE</b>$LOWERRIGHT_CONTENT</td></tr>
 </tbody>
 </table>
 
