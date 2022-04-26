@@ -2,11 +2,13 @@
 
 <!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="/media/banner.png">
+<img width="480" height="320" src="media/banner.png">
 
-# **{{repo_name}}**
+# **tmux plugin boilerplate**
+<!-- # **{{repo_name}}** -->
   
-> *[*{{repo_name}}*](https://example.com)*
+> **Description of plugin**
+<!-- > *[*{{repo_name}}*](https://example.com)* -->
   
 
   
@@ -108,12 +110,6 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>`→`</kbd>
 <kbd>`↑`</kbd>
 *<kbd>`</kbd>*
-
-
-
-
-
-
 
 ## Environment Variables
 
