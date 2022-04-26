@@ -4,9 +4,11 @@
   
   <img width="480" height="320" src="/media/banner.png">
 
-# **{{repo_name}}**
+# *neovim lua plugin boilerplate*
+<!-- **{{repo_name}}** -->
   
-> *[*{{repo_name}}*](https://example.com)*
+> **Structure of a `neovim` plugin to make it easier to get started writing `neovim` plugins.**
+<!-- > *[*{{repo_name}}*](https://example.com)* -->
   
 
   
@@ -52,16 +54,16 @@
 
 ## Description
 
+I forget the structure of a `neovim` plugin every single time. So I created the
+boilerplate to make it easier to get started writing `neovim` plugin.
+
 ## Demo
+
+[YouTube video](https://youtu.be/6ch28A_YICQ)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installation
-
-## Dependencies
-
-* dependency-1
-* dependency-2
 
 ## Setup
 
@@ -70,10 +72,23 @@
 ```console
 git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
+* clone the project `git clone https://github.com/s1n7ax/neovim-lua-plugin-boilerplate`
+* go to the project folder `cd neovim-lua-plugin-boilerplate`
+* start editing `nvim --cmd "set rtp+=."`
+* reference the dev configurations `:luafile dev/init.lua`
+* run the greetings.greet() function using `,w` keybind
+
+## Dependencies
+
+* dependency-1
+* dependency-2
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Usage
+
+[More info](doc/presentation.md)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -255,3 +270,4 @@ If you have a suggestion that would make this better, please fork the repo and c
   
 ---
 </div>
+
