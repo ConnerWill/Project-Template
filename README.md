@@ -1,5 +1,5 @@
 ```diff
-SEE THE 'How to use this template' SECTION 
+- SEE THE 'How to use this template' SECTION 
 ```
 
 <div align="center">
@@ -33,6 +33,14 @@ SEE THE 'How to use this template' SECTION
 ```console
 sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
 ```
+2. Remove this section along with the warning in  warninge
+
+```diff
++ THANKS :)
+```
+
+
+
 
 ---
 
