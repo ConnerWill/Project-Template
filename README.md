@@ -28,7 +28,7 @@ SEE THE 'How to use this template' SECTION
 
 # How to use this template
 
-1. **REPLACE '{{repo_name}}' with 'ENTER_REPO_NAME_HERE' in the following command**
+1. REPLACE '***`{{repo_name}}`***' with '***`ENTER_REPO_NAME_HERE`***' in the following command:
 
 ```console
 sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
