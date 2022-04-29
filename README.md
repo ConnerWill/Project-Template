@@ -1,3 +1,13 @@
+
+```diff
+- TO REPLACE '{{repo_name}}' with 'ENTER_REPO_NAME_HERE', Use the following command 
+```
+
+```console
+sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
+```
+
+
 <div align="center">
 
 <!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
