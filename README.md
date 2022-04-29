@@ -1,3 +1,7 @@
+```diff
+SEE THE 'How to use this template' SECTION 
+```
+
 <div align="center">
 
 <!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
@@ -20,15 +24,17 @@
 ---
 </div>
 
+---
+
 # How to use this template
-> Replace placeholder with repo name
-```diff
-- REPLACE '{{repo_name}}' with 'ENTER_REPO_NAME_HERE' in the following command
-```
+
+> **REPLACE '{{repo_name}}' with 'ENTER_REPO_NAME_HERE' in the following command**
 
 ```console
 sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
 ```
+
+---
 
 # Table of Contents
 <details>
