@@ -4,18 +4,14 @@ function replace-placeholders(){
   local _find_and_replace_no_search_input_error
   local currentworkingdir
   local yesorno
-
   _find_and_replace_no_search_input_error='No Search String Received'
   _find_and_replace_no_replace_input_error='No Replace String Received'
-  # _find_and_replace_no_replace_input_error='No Replace String Received'
-  
   currentworkingdir="$(pwd)"
 
   searchstring="$1"
   [[ -z "$searchstring" ]] \
     && printf '\e[0;1;48;5;196;38;5;15m ERROR \e[0;38;5;190m  %s\e[0;1;38;5;201m :(\e[0m\n' "$_find_and_replace_no_search_input_error" \
       && return 1
-
   replacestring="$2"
   [[ -z "$replacestring" ]] \
     && printf '\e[0;1;48;5;196;38;5;15m ERROR \e[0;38;5;190m  %s\e[0;1;38;5;201m :(\e[0m\n' "$_find_and_replace_no_replace_input_error" \
@@ -51,9 +47,6 @@ function replace-placeholders(){
 
 }
 printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mreplace-placeholders \e[0;3;38;5;201m<SEARCH> \e[0;3;38;5;51m<REPLACE>\e[0m\n\n' \
-
-
-
 
 #### OLD VERSION ####
 # #!/bin/bash
