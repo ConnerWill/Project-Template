@@ -82,10 +82,13 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 This is a template for creating new repository/project README.md/documentation.
 Checkout other branches in this repository for specific project templates.
 
+
+* *[main](https://github.com/ConnerWill/Project-Template/tree/main)*
+* *[lite](https://github.com/ConnerWill/Project-Template/tree/lite)*
+* *[bloated](https://github.com/ConnerWill/Project-Template/tree/bloated)*
 * *[zsh-plugin-template](https://github.com/ConnerWill/Project-Template/tree/zsh-plugin-template)*
 * *[tmux-plugin-template](https://github.com/ConnerWill/Project-Template/tree/tmux-plugin-template)*
 * *[neovim-plugin-template](https://github.com/ConnerWill/Project-Template/tree/neovim-plugin-template)*
-
 
 ## Demo
 
