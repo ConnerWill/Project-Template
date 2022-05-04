@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
+<!---<img width="480" height="320" src="static/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="/media/banner.png">
+  <img width="480" height="320" src="static/banner.png">
 
 # **{{repo_name}}**
   
