@@ -79,6 +79,13 @@ sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
 
 ## Demo
 
+<div align="center">
+
+<img width="480" height="320" src="/media/replace-placeholders-demo.gif">
+
+</div>
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installation
