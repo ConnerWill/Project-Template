@@ -6,7 +6,7 @@
 
 <!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="/media/banner.png">
+  <img width="480" height="320" src="media/banner.png">
 
 # **{{repo_name}}**
   
@@ -81,7 +81,7 @@ sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
 
 <div align="center">
 
-<img width="480" height="320" src="/media/replace-placeholders-demo.gif">
+<img width="480" height="320" src="media/replace-placeholders-demo.gif">
 
 </div>
 
