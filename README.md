@@ -33,7 +33,6 @@
 
 ```shell
 source "./scripts/replace-placeholders.sh"
-
 replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ```
 
