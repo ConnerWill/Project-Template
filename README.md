@@ -1,10 +1,13 @@
+
+
+<div align="center">
+
+
 ```diff
 - SEE THE 'How to use this template' SECTION 
 ```
 
-<div align="center">
-
-<!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
+<!---<img width="480" height="320" src="media/{{repo_name}}-banner.png">--->
   
   <img width="480" height="320" src="media/banner.png">
 
