@@ -79,7 +79,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ## Description
 
 
-This is a template for creating new repository/project README.md/documentation.
+This is a template for creating new *repository*/*project* *README.md*/*documentation*.
 Checkout other branches in this repository for specific project templates.
 
 
