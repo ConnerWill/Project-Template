@@ -96,7 +96,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 
 1. Clone this repository
 
-```shell
+```console
 git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
 
