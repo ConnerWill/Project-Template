@@ -80,9 +80,9 @@ sed -i -e 's/{{repo_name}}/ENTER_REPO_NAME_HERE/g' README.md
 ## Demo
 
 <div align="center">
-
-<img width="480" height="320" src="media/replace-placeholders-demo.gif">
-
+  <img width="2381" height="1560" src="media/replace-placeholders-demo.gif">
+  <img width="1190" height="780" src="media/replace-placeholders-demo.gif">
+  <img width="595" height="390" src="media/replace-placeholders-demo.gif">
 </div>
 
 
