@@ -31,14 +31,15 @@
 
 # How to use this template
 
+1. Source `scripts/replace-placeholders.sh`
 ```shell
 source "./scripts/replace-placeholders.sh"
-replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ```
 
-
-
-
+2. Run command with a search string *'`{{repo_name}}`'* and a replace string *eg.* *'`NEW_REPO_NAME`'*
+```shell
+replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
+```
 
 ---
 
