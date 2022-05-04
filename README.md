@@ -184,8 +184,6 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ### Large
 
-<details>
-  <summary>Expand Large Table</summary>
 
 <!---
 UPPERLEFT_TITLE="TEST"
@@ -231,18 +229,14 @@ LOWERRIGHT_CONTENT="test"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-</details>  
-
-
 ### Small
 
-<details>
   <summary>Expand Small Table</summary>
 
 
 <div align="center">
 
-| xxh-shell                            | status    | [something](https://example.com)                                                     | demo |   |
+| title                            | status    | [something](https://example.com)                                                     | demo |   |
 |--------------------------------------|-----------|--------------------------------------------------------------------------------------|------|---|
 | **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> |      |   |
 | **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |      |   |
@@ -256,9 +250,6 @@ LOWERRIGHT_CONTENT="test"
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-</details>  
-
 
 
 # Other
