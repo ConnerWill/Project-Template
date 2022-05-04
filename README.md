@@ -31,7 +31,7 @@
 
 # How to use this template
 
-```console
+```shell
 source "./scripts/replace-placeholders.sh"
 
 replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
@@ -96,7 +96,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 
 1. Clone this repository
 
-```console
+```git
 git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
 
