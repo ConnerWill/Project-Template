@@ -41,7 +41,7 @@ source "./scripts/replace-placeholders.sh"
 replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ```
 
-> *See [Demo](##demo) section*
+> *See [Demo](#demo) section*
 
 ---
 
