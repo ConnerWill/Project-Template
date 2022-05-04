@@ -81,7 +81,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 
 This is a template for creating new *repository/project* *README.md/documentation*.
 
-> Checkout other branches in this repository for specific project templates.
+> *Checkout other branches in this repository for specific project templates*
 > > * *[main](https://github.com/ConnerWill/Project-Template/tree/main)*
 > > * *[lite](https://github.com/ConnerWill/Project-Template/tree/lite)*
 > > * *[bloated](https://github.com/ConnerWill/Project-Template/tree/bloated)*
