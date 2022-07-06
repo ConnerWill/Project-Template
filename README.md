@@ -70,24 +70,13 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
   ---
   
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 </details>  
-
 
 # Overview
 
 ## Description
 
 
-This is a template for creating new *repository/project* *README.md/documentation*.
-
-> *Checkout other branches in this repository for specific project templates*
-> > * *[main](https://github.com/ConnerWill/Project-Template/tree/main)*
-> > * *[lite](https://github.com/ConnerWill/Project-Template/tree/lite)*
-> > * *[bloated](https://github.com/ConnerWill/Project-Template/tree/bloated)*
-> > * *[zsh-plugin-template](https://github.com/ConnerWill/Project-Template/tree/zsh-plugin-template)*
-> > * *[tmux-plugin-template](https://github.com/ConnerWill/Project-Template/tree/tmux-plugin-template)*
-> > * *[neovim-plugin-template](https://github.com/ConnerWill/Project-Template/tree/neovim-plugin-template)*
 
 ## Demo
 
@@ -95,15 +84,20 @@ This is a template for creating new *repository/project* *README.md/documentatio
   <img width="1190" height="780" src="media/replace-placeholders-demo.gif">
 </div>
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installation
 
+
+
 ## Dependencies
 
-* dependency-1
-* dependency-2
+: dependency-1
+: *dependency-1 description* 
+
+: dependency-2
+: *dependency-2 description
+
 
 ## Setup
 
@@ -151,12 +145,6 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>`↑`</kbd>
 *<kbd>`</kbd>*
 
-
-
-
-
-
-
 ## Environment Variables
 
 > *(https://example.com)*
@@ -184,56 +172,46 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ### Large
 
-
-<!---
+```shell
 UPPERLEFT_TITLE="TEST"
 UPPERLEFT_CONTENT="test"
-
 UPPERMIDDLE_TITLE="TEST"
 UPPERMIDDLE_CONTENT="TEST"
-
 UPPERRIGHT_TITLE="TEST"
 UPPERRIGHT_CONTENT="test"
-
 LOWERLEFT_TITLE="TEST"
 LOWERLEFT_CONTENT="test"
-
 LOWERMIDDLE_TITLE="TEST"
 LOWERMIDDLE_CONTENT="test"
-
 LOWERRIGHT_TITLE="TEST"
 LOWERRIGHT_CONTENT="test"
---->
-
+```
 
 <div align="center">
-
-<table border="0" width="100%">
-<col style="width:33%">
-<col style="width:33%">
-<col style="width:33%">
-<tbody>
-<tr style="border: 0px !important;">
-<td valign="top" style="border: 0px !important;"><b>$UPPERLEFT_TITLE</b>$UPPERLEFT_CONTENT</td>
-<td valign="top" style="border: 0px !important;"><b>$UPPERMIDDLE_TITLE</b>$UPPERMIDDLE_CONTENT</td>
-<td valign="top" style="border: 0px !important;"><b>$UPPERRIGHT_TITLE</b>$UPPERRIGHT_CONTENT</td>
-</tr>
-<tr style="border: 0px !important;">
-<td valign="top" style="border: 0px !important;"><b>$LOWERLEFT_TITLE</b>$LOWERLEFT_CONTENT</td>
-<td valign="top" style="border: 0px !important;"><b>$LOWERMIDDLE_TITLE</b>$LOWERMIDDLE_CONTENT</td>
-<td valign="top" style="border: 0px !important;"><b>$LOWERRIGHT_TITLE</b>$LOWERRIGHT_CONTENT</td></tr>
-</tbody>
-</table>
-
+  <table border="0" width="100%">
+    <col style="width:33%">
+    <col style="width:33%">
+    <col style="width:33%">
+    <tbody>
+      <tr style="border: 0px !important;">
+        <td valign="top" style="border: 0px !important;"><b>$UPPERLEFT_TITLE</b>$UPPERLEFT_CONTENT</td>
+        <td valign="top" style="border: 0px !important;"><b>$UPPERMIDDLE_TITLE</b>$UPPERMIDDLE_CONTENT</td>
+        <td valign="top" style="border: 0px !important;"><b>$UPPERRIGHT_TITLE</b>$UPPERRIGHT_CONTENT</td>
+      </tr>
+      <tr style="border: 0px !important;">
+        <td valign="top" style="border: 0px !important;"><b>$LOWERLEFT_TITLE</b>$LOWERLEFT_CONTENT</td>
+        <td valign="top" style="border: 0px !important;"><b>$LOWERMIDDLE_TITLE</b>$LOWERMIDDLE_CONTENT</td>
+        <td valign="top" style="border: 0px !important;"><b>$LOWERRIGHT_TITLE</b>$LOWERRIGHT_CONTENT</td>
+      </tr>
+    </tbody>
+  </table>
+  <p align="right">(<a href="#top">back to top</a>)</p>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Small
 
-  <summary>Expand Small Table</summary>
-
-
+<summary>Expand Small Table</summary>
 <div align="center">
 
 | title                            | status    | [something](https://example.com)                                                     | demo |   |
@@ -246,28 +224,24 @@ LOWERRIGHT_CONTENT="test"
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 
-
+  <p align="right">(<a href="#top">back to top</a>)</p>
 </div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 # Other
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
+<div align="center">
+  <details>
+    <summary>Click to expand contributing section</summary>
+    
 ## Contributing
-
-<details>
-  <summary>Click to expand contributing section</summary>
-
-  ---
+    
+---
 
 Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.
-
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -275,16 +249,32 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+  <p align="right">(<a href="#top">back to top</a>)</p>
 </details>  
 
 ---
 
-<div align="center">
-### **{{repo_name}}** 
+<footer>
+  <nav data-content="bottom">
+    <div align="center">
+      <div id="foot">
+        <span id="bottom">
+          <p><strong>
+            {{repo_name}}
+          </p></strong>
+        </span>
+      </div>
+      <div id="foot2">
+        <span id="bottom2">
+          <p><strong>
+            {{repo_name}}
+          </p></strong>
+        </span>
+      </div>
+    </div>
+  </nav>
+</footer>
   
 > *Bottom Text*
-  
----
-</div>
+> 
+> </div>
