@@ -7,9 +7,9 @@
 - SEE THE 'How to use this template' SECTION 
 ```
 
-<!---<img width="480" height="320" src="media/{{repo_name}}-banner.png">--->
+<!---<img width="480" height="320" src="assets/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="media/banner.png">
+  <img width="480" height="320" src="assets/banner.png">
 
 # **{{repo_name}}**
   
@@ -91,7 +91,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ## Demo
 
 <div align="center">
-  <img width="1190" height="780" src="media/replace-placeholders-demo.gif">
+  <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
