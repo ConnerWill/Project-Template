@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<!---<img width="480" height="320" src="static/{{repo_name}}-banner.png">--->
+<!---<img width="480" height="320" src="assets/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="static/banner.png">
+  <img width="480" height="320" src="assets/banner.png">
 
 # **{{repo_name}}**
   
@@ -17,7 +17,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
 ![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}})
-[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/{{repo_name}})
+[![GitLab](https://img.shields.io/assets/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/{{repo_name}})
 ![GitHub](https://img.shields.io/github/license/ConnerWill/{{repo_name}})
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social)
 
