@@ -1,8 +1,8 @@
 <div align="center">
 
-<!---<img width="480" height="320" src="/media/{{repo_name}}-banner.png">--->
+<!---<img width="480" height="320" src="/assets/{{repo_name}}-banner.png">--->
   
-  <img width="480" height="320" src="/media/banner.png">
+  <img width="480" height="320" src="/assets/banner.png">
 
 # *neovim lua plugin boilerplate*
 <!-- **{{repo_name}}** -->
