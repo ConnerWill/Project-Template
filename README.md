@@ -14,9 +14,7 @@
 # **{{repo_name}}**
   
 > *[*{{repo_name}}*](https://example.com)*
-  
-
-  
+ 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
 ![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}})
@@ -27,8 +25,27 @@
 ---
 </div>
 
----
+<div align="center">
+ <span>
+<!--  
+  <sample>
+   <b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b>
+  </sample>
+ -->
+  <kbd>
+   <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
+   <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
+   <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
+   <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
+   <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
+   <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
+   <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
+   <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
+  </kbd>
+ </span>
+</div>
 
+---
 
 ![neovim screenshot](https://user-images.githubusercontent.com/10108377/140420895-a3ed425b-e19f-4970-b0b5-9d25eec3fbe7.png)
 
