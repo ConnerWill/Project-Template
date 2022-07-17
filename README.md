@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 
@@ -103,7 +101,8 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 
   ---
   
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+  
 </details>  
 
 # Overview
@@ -118,7 +117,7 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
   <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 # Installation
 
@@ -140,16 +139,12 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ```console
 git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 # Usage
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-# Customization
-
-## Configuration File
+# Customization## Configuration Fil
 
 ### Hotkeys
 
@@ -199,7 +194,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 : *<kbd>bool</kbd>*
 : environment variable description.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+ <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 
 # Tables
@@ -239,7 +234,7 @@ LOWERRIGHT_CONTENT="test"
       </tr>
     </tbody>
   </table>
-  <p align="right">(<a href="#top">back to top</a>)</p>
+ <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </div>
 
 
@@ -258,7 +253,7 @@ LOWERRIGHT_CONTENT="test"
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 
-  <p align="right">(<a href="#top">back to top</a>)</p>
+  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </div>
 
 # Other
@@ -283,7 +278,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-  <p align="right">(<a href="#top">back to top</a>)</p>
+   <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>  
 
 ---
