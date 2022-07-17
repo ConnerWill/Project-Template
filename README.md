@@ -49,8 +49,7 @@
   </kbd>
  </span>
 </div>
-
----
+<br>
 
 ![neovim screenshot](https://user-images.githubusercontent.com/10108377/140420895-a3ed425b-e19f-4970-b0b5-9d25eec3fbe7.png)
 
@@ -59,7 +58,6 @@
 
 
 ## Overview
-
 
 # How to use this template
 
@@ -75,13 +73,13 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 
 > *See [Demo](#demo) section*
 
----
+<hr>
 
 # Table of Contents
 <details>
   <summary>Expand Table of Contents</summary>
 
-  ---
+  <hr>
   
 * [{{repo_name}}](#{{repo_name}})
 * [Table of Contents](#table-of-contents)
@@ -99,29 +97,24 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
   * [Environment Variables](#environment-variables)
 * [Other](#other)
 
-  ---
-  
+<hr>  
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
-  
 </details>  
 
 # Overview
 
 ## Description
 
-
+*ENTER DESCRIPTION HERE*
 
 ## Demo
 
-<div align="center">
-  <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
-</div>
-
+<div align="center"><img width="1190" height="780" src="assets/replace-placeholders-demo.gif"></div>
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 # Installation
 
-
+*HOW TO INSTALL*
 
 ## Dependencies
 
@@ -131,7 +124,6 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 : dependency-2
 : *dependency-2 description
 
-
 ## Setup
 
 1. Clone this repository
@@ -139,40 +131,26 @@ replace-placeholders "{{repo_name}}" "NEW_REPO_NAME"
 ```console
 git clone https://github.com/ConnerWill/{{repo_name}}.git
 ```
-<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 # Usage
-
 
 # Customization## Configuration Fil
 
 ### Hotkeys
 
-<kbd>CTRL</kbd>
-<kbd>ALT</kbd>
-<kbd>SHIFT</kbd>
-<kbd>CAPSLOCK</kbd>
-<kbd>ENTER</kbd>
-<kbd>RETURN</kbd>
-<kbd>FN</kbd>
-<kbd>~</kbd>
-<kbd>TAB</kbd>
-<kbd>F1</kbd>
-<kbd>BACKSPACE</kbd>
-<kbd>HOME</kbd>
-<kbd>END</kbd>
-<kbd>PgUp</kbd>
-<kbd>PgDn</kbd>
-<kbd>INSERT</kbd>
-<kbd>DELETE</kbd>
-<kbd>DEL</kbd>
-<kbd>`CTRL`</kbd>
-<kbd>```CTRL```</kbd>
-<kbd>`↓`</kbd>
-<kbd>`←`</kbd>
-<kbd>`→`</kbd>
-<kbd>`↑`</kbd>
 *<kbd>`</kbd>*
+
+<kbd>CTRL</kbd>     <kbd>ALT</kbd>    <kbd>SHIFT</kbd>
+<kbd>CAPSLOCK</kbd> <kbd>ENTER</kbd>  <kbd>RETURN</kbd>
+<kbd>FN</kbd>       <kbd>~</kbd>      <kbd>HOME</kbd>
+<kbd>TAB</kbd>      <kbd>F1</kbd>     <kbd>END</kbd>
+<kbd>PgUp</kbd>     <kbd>PgDn</kbd>   <kbd>INSERT</kbd>
+<kbd>DELETE</kbd>   <kbd>DEL</kbd>    <kbd>BACKSPACE</kbd>
+
+<kbd>`↓`</kbd> <kbd>`←`</kbd>
+<kbd>`→`</kbd> <kbd>`↑`</kbd>
+
+<kbd>`CTRL`</kbd><kbd>```CTRL```</kbd>
 
 ## Environment Variables
 
