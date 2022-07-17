@@ -269,50 +269,13 @@ LOWERRIGHT_CONTENT="test"
 >  
 > *If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.*
 > 
-> > >  thanks ☻ 〠
+> > >  thanks ☻ 〠 
 
-⃠
-
-
-
-&#x20E0;
-
-
- 
-ᎀ
-  
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-    
-  
-  
-
-&#x20E0;
-⃠
-
-&#x20DF;
-⃟
-
-
-Enclosing Keycap, Combining
-&#x20E3;
-⃣
-
-
-
-&#x20E2;
-⃢
-
-&#x20DE;
-⃞
-  
-  
-  
-  
-  
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>  
@@ -343,7 +306,6 @@ Enclosing Keycap, Combining
 > *Bottom Text*
 > 
 > </div>
-
  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 <!--
@@ -352,9 +314,14 @@ Enclosing Keycap, Combining
  <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
  <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
  <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
+ᎀ 〠 〠⃠
+☻  ☻⃢  ☻⃠
 -->
 
 <div align="center"><b>
+  
+ᎀ 〠 〠⃠
+☻  ☻⃢  ☻⃠
 
 ```【𝐄𝐍𝐃】```
 
