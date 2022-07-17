@@ -265,9 +265,11 @@ LOWERRIGHT_CONTENT="test"
     
 ---
 
-> > >    *Any contributions you make are **greatly appreciated***
+> > >    **Any contributions you make are Greatly Appreciated***
 >  
-> *If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.*
+> *If you have a suggestion that would make this better,*
+> *please fork the repo and create a pull request.*
+> *You can also simply open an issue.*
 > 
 > > >  thanks ☻ 〠 
 
