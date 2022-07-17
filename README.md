@@ -313,11 +313,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 > 
 > </div>
 
-<div align="center"><b>
-
-```【𝐄𝐍𝐃】```
-
-</b></div>
  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 <!--
@@ -327,3 +322,9 @@ If you have a suggestion that would make this better, please fork the repo and c
  <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
  <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
 -->
+
+<div align="center"><b>
+
+```【𝐄𝐍𝐃】```
+
+</b></div>
