@@ -138,20 +138,47 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ### Hotkeys
 
-*<kbd>`</kbd>*
+<div align="center">
+<span>
 
-<kbd>CTRL</kbd>     <kbd>ALT</kbd>    <kbd>SHIFT</kbd>
-<kbd>CAPSLOCK</kbd> <kbd>ENTER</kbd>  <kbd>RETURN</kbd>
-<kbd>FN</kbd>       <kbd>~</kbd>      <kbd>HOME</kbd>
-<kbd>TAB</kbd>      <kbd>F1</kbd>     <kbd>END</kbd>
-<kbd>PgUp</kbd>     <kbd>PgDn</kbd>   <kbd>INSERT</kbd>
-<kbd>DELETE</kbd>   <kbd>DEL</kbd>    <kbd>BACKSPACE</kbd>
+*<kbd>``</kbd>*<br>
 
-<kbd>`↓`</kbd> <kbd>`←`</kbd>
-<kbd>`→`</kbd> <kbd>`↑`</kbd>
+<kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br><br>
 
-<kbd>`CTRL`</kbd><kbd>```CTRL```</kbd>
+<kbd>`↑`</kbd><br>
+<kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>  
 
+<kbd>`TAB`</kbd><br>
+<kbd>`SHIFT`</kbd><kbd>`ENTER`</kbd><br>
+<kbd>`CTRL`</kbd> <kbd>`SUPER`</kbd> <kbd>`ALT`</kbd><br><br>
+
+<kbd>`INSERT`</kbd><kbd>`HOME`</kbd><kbd>`PgUp`</kbd><br>
+<kbd>`DELETE`</kbd><kbd>`END`</kbd><kbd>`PgDn`</kbd><br><br>
+  
+<kbd>`FN`</kbd> <kbd>`F1`</kbd> <kbd>`~`</kbd><br><br>
+  
+<kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br><br>
+
+
+
+   <kbd>`DEL`</kbd>    
+
+  
+<kbd>`BACKSPACE`</kbd><br><br>
+
+<kbd>`RETURN`</kbd>
+
+  
+
+
+  
+</div>
+
+<kbd>```CTRL```</kbd>
+
+</span>
+  
+  
 ## Environment Variables
 
 > *(https://example.com)*
