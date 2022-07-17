@@ -15,12 +15,19 @@
   
 > *[*{{repo_name}}*](https://example.com)*
  
+ 
+![GitHub top language](https://img.shields.io/github/languages/top/ConnerWill/%7B%7Brepo_name%7D%7D)
+![GitHub language count](https://img.shields.io/github/languages/count/ConnerWill/%7B%7Brepo_name%7D%7D)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
 ![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}})
 [![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/{{repo_name}})
 ![GitHub](https://img.shields.io/github/license/ConnerWill/{{repo_name}})
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social)
+
+
+
+
 
 ---
 </div>
