@@ -134,43 +134,31 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 # Usage
 
-# Customization## Configuration Fil
+# Customization
 
-### Hotkeys
+### Hotkeys <kbd>``</kbd><b>  </b><br>
 
 <details>
-  <summary>Click to expand hotkeys section</summary>
+  <summary>Click to expand hotkeys section <b>  </b></summary>
 
-<div align="center">
-<span>
+ <div align="center">
+  <span>
 
-*<kbd>``</kbd>*<br>
-
+<br>
 <kbd>`↑`</kbd><br>
-<kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br>
-  
-<kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br>
-  
-<kbd>`TAB`</kbd><br>
-<kbd>`SHIFT`</kbd><kbd>`ENTER`</kbd><br>
-<kbd>`CTRL`</kbd> <kbd>`SUPER`</kbd> <kbd>`ALT`</kbd><br>
-
+<kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>
+<kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br><br>
+<kbd>`TAB`</kbd>  <kbd>`SHIFT`</kbd> <kbd>`ENTER`</kbd><br>
+<kbd>`CTRL`</kbd> <kbd>`SUPER`</kbd> <kbd>`ALT`</kbd><br><br>
 <kbd>`INSERT`</kbd><kbd>`HOME`</kbd><kbd>`PgUp`</kbd><br>
-<kbd>`DELETE`</kbd><kbd>`END`</kbd><kbd>`PgDn`</kbd><br>
- 
+<kbd>`DELETE`</kbd><kbd>`END`</kbd><kbd>`PgDn`</kbd><br><br>
 <kbd>`~`</kbd> <kbd>`FN`</kbd> <kbd>`F1`</kbd><br>
-
 <kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br>
-
 <kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br>
 
+  </span>
+ </div>
 </details>
-</div>
-
-<kbd>```CTRL```</kbd>
-
-</span>
-  
   
 ## Environment Variables
 
