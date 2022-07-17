@@ -280,13 +280,11 @@ LOWERRIGHT_CONTENT="test"
 5. Then open a Pull Request
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
-</details>  
-
----
-
+</details>
+<hr>
 <footer>
   <nav data-content="bottom">
-    <div align="center">
+    <div align="right">
       <div id="foot">
         <span id="bottom">
           <p><strong>
@@ -304,10 +302,6 @@ LOWERRIGHT_CONTENT="test"
     </div>
   </nav>
 </footer>
-  
-> *Bottom Text*
-> 
-> 
 </div>
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
