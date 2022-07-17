@@ -141,10 +141,8 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <details>
   <summary>Click to expand hotkeys section <b>  </b></summary>
 
- <div align="center">
-  <span>
-
-<br>
+<div align="center">
+ 
 <kbd>`↑`</kbd><br>
 <kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>
 <kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br><br>
@@ -156,11 +154,14 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br>
 <kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br>
 
-  </span>
- </div>
+</div>
 </details>
   
+  
 ## Environment Variables
+
+<details>
+  <summary>Click to expand variables section</summary>
 
 > *(https://example.com)*
 
@@ -179,11 +180,21 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 **```ENVVAR4```**
 : *<kbd>bool</kbd>*
 : environment variable description.
-
- <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
-
+  
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
 
 # Tables
+
+
+
+<details>
+  <summary>Click to expand tables section</summary>
+
+<hr><br>
+
+<details>
+  <summary>Click to expand large tables section</summary>
 
 ### Large
 
@@ -222,7 +233,10 @@ LOWERRIGHT_CONTENT="test"
   </table>
  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </div>
+</details>
 
+<details>
+  <summary>Click to expand small tables section</summary>
 
 ### Small
 
@@ -238,10 +252,13 @@ LOWERRIGHT_CONTENT="test"
 | **[something](https://example.com)** | beta      |                                                                                      |      |   |
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
 | **[something](https://example.com)** | alpha     |                                                                                      |      |   |
-
-  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
+  
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+<hr><br>
 </div>
-
+</details>
+  
 # Other
 
 <!--UNCOMMENT TO FOLD 'contributing' SECTION
@@ -253,13 +270,13 @@ LOWERRIGHT_CONTENT="test"
 
 ## Contributing
   
-> > >    **Any contributions you make are Greatly Appreciated***
+> > > > >   **Any contributions you make are Greatly Appreciated**
 >  
 > *If you have a suggestion that would make this better,*
-> *please fork the repo and create a pull request.*
-> *You can also simply open an issue.*
+> *please fork the repo and create a pull request*
+> *You can also simply open an issue*
 > 
-> > >  thanks ☻ 〠 
+> > > >   **thanks** ☻ 〠
 
 <br>
 
