@@ -258,9 +258,13 @@ LOWERRIGHT_CONTENT="test"
 
 # Other
 
+<!--UNCOMMENT TO FOLD 'contributing' SECTION
+
   <details>
     <summary>Click to expand contributing section</summary>
-    
+
+-->
+
 ## Contributing
     
 ---
@@ -281,8 +285,6 @@ LOWERRIGHT_CONTENT="test"
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
-
-
 
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
