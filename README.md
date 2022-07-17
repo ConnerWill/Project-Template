@@ -138,6 +138,9 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ### Hotkeys
 
+<details>
+  <summary>Click to expand hotkeys section</summary>
+
 <div align="center">
 <span>
 
@@ -154,24 +157,15 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 <kbd>`INSERT`</kbd><kbd>`HOME`</kbd><kbd>`PgUp`</kbd><br>
 <kbd>`DELETE`</kbd><kbd>`END`</kbd><kbd>`PgDn`</kbd><br><br>
-  
-<kbd>`FN`</kbd> <kbd>`F1`</kbd> <kbd>`~`</kbd><br><br>
-  
+
+<kbd>`~`</kbd><br>
+<kbd>`FN`</kbd> <kbd>`F1`</kbd><br><br> 
+
 <kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br><br>
 
+<kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br><br>
 
-
-   <kbd>`DEL`</kbd>    
-
-  
-<kbd>`BACKSPACE`</kbd><br><br>
-
-<kbd>`RETURN`</kbd>
-
-  
-
-
-  
+</details>
 </div>
 
 <kbd>```CTRL```</kbd>
