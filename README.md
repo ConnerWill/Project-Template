@@ -285,9 +285,6 @@ LOWERRIGHT_CONTENT="test"
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
-
-<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
-
 <br><br>
 <footer>
   <nav data-content="bottom">
@@ -319,11 +316,7 @@ LOWERRIGHT_CONTENT="test"
   </nav>
 </footer>
 </div>
-
-<div align="center">
-  <b> 【𝐄𝐍𝐃】 </b>
-</div>
-
+<div align="center"><b> 【𝐄𝐍𝐃】 </b></div>
 <!--
  <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
  <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
