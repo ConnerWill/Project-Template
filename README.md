@@ -274,9 +274,9 @@ LOWERRIGHT_CONTENT="test"
 > > >  thanks ☻ 〠 
 
 1. Fork the Project
-2. Create your Feature Branch  . (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes: . . . . (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch  . . . . . (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch  . `git checkout -b feature/AmazingFeature`
+3. Commit your Changes: . . . .  `git commit -m 'Add some AmazingFeature'`
+4. Push to the Branch  . . . . . `git push origin feature/AmazingFeature`
 5. Then open a Pull Request
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
@@ -307,8 +307,9 @@ LOWERRIGHT_CONTENT="test"
   
 > *Bottom Text*
 > 
-> </div>
- <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+> 
+</div>
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 <!--
  <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
