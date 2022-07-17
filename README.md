@@ -286,28 +286,9 @@ LOWERRIGHT_CONTENT="test"
 
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
-<!--
- <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
- <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
- <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
- <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
- <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
-ᎀ 〠 〠⃠
-☻  ☻⃢  ☻⃠
--->
-
-<div align="center"><b>
-  
-ᎀ 〠 〠⃠
-☻  ☻⃢  ☻⃠
-
-```【𝐄𝐍𝐃】```
-
-</b></div>
 <br><br>
 <footer>
   <nav data-content="bottom">
-  <hr>
     <div align="right">
       <div id="foot">
         <span id="bottom">
@@ -332,6 +313,24 @@ LOWERRIGHT_CONTENT="test"
         </span>
       </div>
     </div>
+  <hr>
   </nav>
 </footer>
 </div>
+
+<div align="center">
+  <b> 【𝐄𝐍𝐃】 </b>
+</div>
+
+<!--
+ <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
+ <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
+ <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
+ <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
+ <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
+ᎀ 〠 〠⃠
+☻  ☻⃢  ☻⃠
+<div align="center"><b>
+```☻  ☻⃢  ☻⃠【𝐄𝐍𝐃】ᎀ 〠 〠⃠ ```
+<div align="center"><b>
+-->
