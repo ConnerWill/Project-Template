@@ -281,28 +281,9 @@ LOWERRIGHT_CONTENT="test"
   
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
-<hr>
-<footer>
-  <nav data-content="bottom">
-    <div align="right">
-      <div id="foot">
-        <span id="bottom">
-          <p><strong>
-            {{repo_name}}
-          </p></strong>
-        </span>
-      </div>
-      <div id="foot2">
-        <span id="bottom2">
-          <p><strong>
-            {{repo_name}}
-          </p></strong>
-        </span>
-      </div>
-    </div>
-  </nav>
-</footer>
-</div>
+
+
+
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 <!--
@@ -323,3 +304,34 @@ LOWERRIGHT_CONTENT="test"
 ```【𝐄𝐍𝐃】```
 
 </b></div>
+<br><br>
+<footer>
+  <nav data-content="bottom">
+  <hr>
+    <div align="right">
+      <div id="foot">
+        <span id="bottom">
+         <p>
+          <a href="https://github.com/ConnerWill/{{repo_name}}">
+           <em>
+             {{repo_name}}
+           </em>
+          </a>
+         </p>
+        </span>
+      </div>
+      <div id="foot2">
+        <span id="bottom2">
+         <p>
+          <a href="https://github.com/ConnerWill/{{repo_name}}">
+           <em>
+             {{repo_name}}
+           </em>
+          </a>
+         </p>
+        </span>
+      </div>
+    </div>
+  </nav>
+</footer>
+</div>
