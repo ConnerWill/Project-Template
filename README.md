@@ -276,17 +276,42 @@ LOWERRIGHT_CONTENT="test"
 > > >  thanks ☻ 〠 
 
 <br>
+
 1. Fork the Project
 2. Create your Feature Branch  . `git checkout -b feature/AmazingFeature`
 3. Commit your Changes: . . . .  `git commit -m 'Add some AmazingFeature'`
 4. Push to the Branch  . . . . . `git push origin feature/AmazingFeature`
 5. Then open a Pull Request
-<br>
+
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
-<br><br>
+<br>
 <footer>
   <nav data-content="bottom">
+    <div align="right">
+      <div id="foot">
+        <span id="bottom">
+         <p>
+          <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
+          <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
+         </p>
+        </span>
+      </div>
+    </div>
+  <hr>
+ </nav>
+</footer>
+</div>
+<div align="center"><b> 【𝐄𝐍𝐃】 </b></div>
+
+<!--
+ <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
+ <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
+ <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
+ <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
+ <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
+ᎀ 〠 〠⃠
+☻  ☻⃢  ☻⃠
     <div align="right">
       <div id="foot">
         <span id="bottom">
@@ -314,17 +339,5 @@ LOWERRIGHT_CONTENT="test"
   <hr>
   </nav>
 </footer>
-</div>
-<div align="center"><b> 【𝐄𝐍𝐃】 </b></div>
-<!--
- <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
- <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
- <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
- <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
- <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
-ᎀ 〠 〠⃠
-☻  ☻⃢  ☻⃠
-<div align="center"><b>
-```☻  ☻⃢  ☻⃠【𝐄𝐍𝐃】ᎀ 〠 〠⃠ ```
-<div align="center"><b>
+
 -->
