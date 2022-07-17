@@ -312,3 +312,18 @@ If you have a suggestion that would make this better, please fork the repo and c
 > *Bottom Text*
 > 
 > </div>
+
+<div align="center"><b>
+
+```【𝐄𝐍𝐃】```
+
+</b></div>
+ <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+
+<!--
+ <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
+ <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
+ <p align="right">(<a href="#top"> 𝓑𝒷𝒶𝒸𝓀 𝓉𝒐 𝓉𝒐𝓅 𝜟</a>)</p>
+ <p align="right">Random<a href="#top">𝜟🔝⤊⟰⤉⤒𝅉 </a>Symbols</p>
+ <p align="right">Random<a href="#top">🢕⬔⦇⦈</a>Symbols</p>
+-->
