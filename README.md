@@ -323,9 +323,9 @@ LOWERRIGHT_CONTENT="test"
       <div id="foot2">
         <span id="bottom2">
          <p>
-          <a href="https://github.com/ConnerWill/{{repo_name}}">
+          <a href="https://github.com/ConnerWill">
            <em>
-             {{repo_name}}
+             ConnerWill
            </em>
           </a>
          </p>
