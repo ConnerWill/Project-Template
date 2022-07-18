@@ -11,7 +11,7 @@
 
 # **{{repo_name}}**
   
-> *[*{{repo_name}}*](https://example.com)*
+> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}})*
  
  
 ![GitHub top language](https://img.shields.io/github/languages/top/ConnerWill/%7B%7Brepo_name%7D%7D)
@@ -23,20 +23,13 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/{{repo_name}})
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social)
 
-
-
-
-
 ---
+
 </div>
 
 <div align="center">
  <span>
-<!--  
-  <sample>
-   <b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b>
-  </sample>
- -->
+
   <kbd>
    <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
@@ -163,7 +156,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <details>
   <summary>Click to expand variables section</summary>
 
-> *(https://example.com)*
+> *(https://connerwill.com)*
 
 **```ENVVAR```**
 : *<kbd>string</kbd>*
@@ -307,6 +300,7 @@ LOWERRIGHT_CONTENT="test"
 </div>
 <div align="center"><b> 【𝐄𝐍𝐃】 </b></div>
 
+<!-- <sample><b><a href="https://connerwill.com">╔════════════════════════════════════════╗</a></b></sample> -->
 <!--
  <p align="right">(<a href="#top">𝜟 𝐛𝐚𝐜𝐤 𝒕𝒐 𝒕𝒐𝐩 𝜟</a>)</p>
  <p align="right">(<a href="#top">𝜟 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑡𝑜𝑝 𝜟</a>)</p>
@@ -345,13 +339,15 @@ LOWERRIGHT_CONTENT="test"
 
 -->
 
+> blank url
+<!--
 <a href="url" target="_blank">link</a>
+-->
+:<a href="url" target="_blank">link</a>
 
 
 <div> test content</div>
-
 As per the above, an h3 tag contains a div tag. The HTML content needs to replace with encoding characters in the heading tag with markdown syntax.
-
 ### &lt;div&gt; test content &lt;div&gt;
 
 
