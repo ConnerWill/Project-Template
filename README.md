@@ -344,3 +344,5 @@ LOWERRIGHT_CONTENT="test"
 </footer>
 
 -->
+
+<a href="url" target="_blank">link</a>
