@@ -346,3 +346,13 @@ LOWERRIGHT_CONTENT="test"
 -->
 
 <a href="url" target="_blank">link</a>
+
+
+<div> test content</div>
+
+As per the above, an h3 tag contains a div tag. The HTML content needs to replace with encoding characters in the heading tag with markdown syntax.
+
+### &lt;div&gt; test content &lt;div&gt;
+
+
+
