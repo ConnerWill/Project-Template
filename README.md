@@ -13,7 +13,6 @@
   </kbd>
  </span>
 </div>
-<br>
 <hr>
 <div align="center">
 
