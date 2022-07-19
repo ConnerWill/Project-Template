@@ -14,7 +14,7 @@
  </span>
 </div>
 <br>
-
+<hr>
 <div align="center">
 
 ```diff
@@ -349,9 +349,12 @@ LOWERRIGHT_CONTENT="test"
 As per the above, an h3 tag contains a div tag. The HTML content needs to replace with encoding characters in the heading tag with markdown syntax.
 ### &lt;div&gt; test content &lt;div&gt;
 
+
+
 <div align="center">
  <span>
-
+  <hr>
+  <br>
   <kbd>
    <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
    <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
@@ -364,4 +367,3 @@ As per the above, an h3 tag contains a div tag. The HTML content needs to replac
   </kbd>
  </span>
 </div>
-<br>
