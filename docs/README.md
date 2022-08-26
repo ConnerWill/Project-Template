@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img width="480" height="320" src="assets/banner.png">
+  <img width="480" height="320" src="../assets/banner.png">
 
 # **Ｐｒｏｊｅｃｔ－Ｔｅｍｐｌａｔｅ**
 
