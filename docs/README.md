@@ -28,7 +28,7 @@
 <!--[![GoDoc][godoc-badge]][godoc]-->
 <!--[![GoReportCard][report-badge]][report]-->
 <!--[![Docker Cloud Build Status][docker-cloud-build-status]][docker-hub]-->
-<!--<!--[![Docker Pulls][docker-pulls]][docker-hub]-->-->
+<!--[![Docker Pulls][docker-pulls]][docker-hub]-->
 <!--[![Docker Image Size][docker-size]][docker-hub]-->
 <!--[![Travis Build Status][travis-badge]][travis]-->
 
