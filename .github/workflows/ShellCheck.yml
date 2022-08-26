@@ -13,4 +13,4 @@ jobs:
           submodules: recursive
 
       - name: Shellcheck
-        run: shellcheck --color=always --exclude=1072,1073,1009,2148,2142 --severity=error --check-sourced ./src/shell-template.sh
+        run: shellcheck --color=always --exclude=1072,1073,1009,2148,2142 --severity=error --check-sourced src/shell-template.sh
