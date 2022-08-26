@@ -39,7 +39,6 @@
 
 <details>
   <summary>Expand Table of Contents</summary>
-
   <hr>
 
 * [{{repo_name}}](#{{repo_name}})
@@ -47,19 +46,21 @@
 * [Overview](#overview)
   * [Description](##description)
   * [Demo](##demo)
-* [Installation](#installation)
-  * [Dependencies](##dependencies)
-    * [Dependency-1-Installation](###dependency-1-installation)
-  * [Setup](##setup)
+* [Setup](#setup)
+  * [Installation](##installation)
+    * [Dependencies](###dependencies)
 * [Usage](#usage)
-* [Customization](#customization)
-  * [Configuration File](##configuration-file)
-  * [Hotkeys](###hotkeys)
-  * [Environment Variables](#environment-variables)
+  * [Customization](##customization)
+    * [Configuration File](###configuration-file)
+    * [Hotkeys](###hotkeys)
+    * [Environment Variables](###environment-variables)
+  * [Tables](##tables)
+    * [Large](###large)
+    * [Small](###small)
 * [Other](#other)
+  * [Contributing](##contributing)
 
   <hr>
-  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
 
 # Overview
@@ -77,11 +78,21 @@
 </div>
 
 
-# Installation
+# Setup
+
+*SETUP INFORMATION*
+
+## Installation
 
 *INSTALLATION INFORMATION*
 
-## Dependencies
+1. Clone this repository
+
+```console
+git clone https://github.com/ConnerWill/{{repo_name}}.git
+```
+
+### Dependencies
 
 *DEPENDENCIES INFORMATION*
 
@@ -91,25 +102,16 @@
 : dependency-2
 : *dependency-2 description
 
-## Setup
-
-*SETUP INFORMATION*
-
-1. Clone this repository
-
-```console
-git clone https://github.com/ConnerWill/{{repo_name}}.git
-```
 
 # Usage
 
 *USAGE INFORMATION*
 
-# Customization
+## Customization
 
 *CUSTOMIZATION INFORMATION*
 
-## Hotkeys
+### Hotkeys
 
 *HOTKEYS INFORMATION*
 
@@ -132,7 +134,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 </details>
 
 
-## Environment Variables
+### Environment Variables
 
 *ENVIRONMENT VARIABLES INFORMATION*
 
@@ -158,7 +160,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
 
-# Tables
+## Tables
 
 <details>
   <summary>Click to expand tables section</summary>
