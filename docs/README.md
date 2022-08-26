@@ -1,0 +1,332 @@
+<!-- {{repo_name}} - README.md -->
+
+<!--
+  NAME:         {{repo_name}}
+  AUTHOR:       ConnerWill
+  DATE:         2022-09-01
+  DESCRIPTION:  "Description of project"
+  DOCS:         docs/README.md
+-->
+
+<div align="center">
+  <img width="480" height="320" src="assets/banner.png">
+
+# **{{repo_name}}**
+
+> *Description of [*{{repo_name}}*][{{repo_name}}]*
+
+[![ShellCheck Workflow Status][github-workflow-shellcheck-badge]][github-workflow-shellcheck]
+<!--[![Workflow Status][github-workflow-badge]][github-workflow]-->
+[![License][license]][license-file]
+[![GitHub top language][github-top-language]][{{repo_name}}]
+[![GitHub language count][github-language-count]][{{repo_name}}]
+[![GitHub last commit][github-last-commit]][{{repo_name}}]
+[![GitHub issues][github-issues]][{{repo_name}}]
+[![GitHub repo size][github-repo-size]][{{repo_name}}]
+[![GitHub Repo stars][github-repo-stars]][{{repo_name}}]
+[![GitLab][gitlab-badge]][gitlab]
+<!--[![GoDoc][godoc-badge]][godoc]-->
+<!--[![GoReportCard][report-badge]][report]-->
+<!--[![Docker Cloud Build Status][docker-cloud-build-status]][docker-hub]-->
+<!--<!--[![Docker Pulls][docker-pulls]][docker-hub]-->-->
+<!--[![Docker Image Size][docker-size]][docker-hub]-->
+<!--[![Travis Build Status][travis-badge]][travis]-->
+
+  <hr>
+</div>
+
+# Table of Contents
+
+<details>
+  <summary>Expand Table of Contents</summary>
+
+* [{{repo_name}}](#{{repo_name}})
+* [Table of Contents](#table-of-contents)
+* [Overview](#overview)
+  * [Description](##description)
+  * [Demo](##demo)
+* [Installation](#installation)
+  * [Dependencies](##dependencies)
+    * [Dependency-1-Installation](###dependency-1-installation)
+  * [Setup](##setup)
+* [Usage](#usage)
+* [Customization](#customization)
+  * [Configuration File](##configuration-file)
+    * [Hotkeys](###hotkeys)
+  * [Environment Variables](#environment-variables)
+* [Other](#other)
+
+  <hr>
+  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
+
+# Overview
+
+## Description
+
+*ENTER DESCRIPTION HERE*
+
+## Demo
+
+<div align="center">
+  <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
+</div>
+
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+
+# Installation
+
+*HOW TO INSTALL*
+
+## Dependencies
+
+: dependency-1
+: *dependency-1 description*
+
+: dependency-2
+: *dependency-2 description
+
+## Setup
+
+1. Clone this repository
+
+```console
+git clone https://github.com/ConnerWill/{{repo_name}}.git
+```
+
+# Usage
+
+# Customization
+
+### Hotkeys <kbd>``</kbd><b>  </b><br>
+
+<details>
+  <summary>Click to expand hotkeys section <b>  </b></summary>
+
+<div align="center">
+
+<kbd>`↑`</kbd><br>
+<kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>
+<kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br><br>
+<kbd>`TAB`</kbd>  <kbd>`SHIFT`</kbd> <kbd>`ENTER`</kbd><br>
+<kbd>`CTRL`</kbd> <kbd>`SUPER`</kbd> <kbd>`ALT`</kbd><br><br>
+<kbd>`INSERT`</kbd><kbd>`HOME`</kbd><kbd>`PgUp`</kbd><br>
+<kbd>`DELETE`</kbd><kbd>`END`</kbd><kbd>`PgDn`</kbd><br><br>
+<kbd>`~`</kbd> <kbd>`FN`</kbd> <kbd>`F1`</kbd><br>
+<kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br>
+<kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br>
+
+</div>
+</details>
+
+
+## Environment Variables
+
+<details>
+  <summary>Click to expand variables section</summary>
+
+> *(https://connerwill.com)*
+
+**```ENVVAR```**
+: *<kbd>string</kbd>*
+: environment variable description.
+
+**```ENVVAR2```**
+: *<kbd>bool</kbd>*
+: environment variable description.
+
+**```ENVVAR3```**
+: *<kbd>string</kbd>*
+: environment variable description.
+
+**```ENVVAR4```**
+: *<kbd>bool</kbd>*
+: environment variable description.
+
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
+
+# Tables
+
+<details>
+  <summary>Click to expand tables section</summary>
+  <hr><br>
+  <details>
+    <summary>Click to expand large tables section</summary>
+
+### Large
+
+```shell
+UPPERLEFT_TITLE="TEST"
+UPPERLEFT_CONTENT="test"
+UPPERMIDDLE_TITLE="TEST"
+UPPERMIDDLE_CONTENT="TEST"
+UPPERRIGHT_TITLE="TEST"
+UPPERRIGHT_CONTENT="test"
+LOWERLEFT_TITLE="TEST"
+LOWERLEFT_CONTENT="test"
+LOWERMIDDLE_TITLE="TEST"
+LOWERMIDDLE_CONTENT="test"
+LOWERRIGHT_TITLE="TEST"
+LOWERRIGHT_CONTENT="test"
+```
+
+  <div align="center">
+    <table border="0" width="100%">
+      <col style="width:33%">
+      <col style="width:33%">
+      <col style="width:33%">
+      <tbody>
+        <tr style="border: 0px !important;">
+          <td valign="top" style="border: 0px !important;"><b>$UPPERLEFT_TITLE</b>$UPPERLEFT_CONTENT</td>
+          <td valign="top" style="border: 0px !important;"><b>$UPPERMIDDLE_TITLE</b>$UPPERMIDDLE_CONTENT</td>
+          <td valign="top" style="border: 0px !important;"><b>$UPPERRIGHT_TITLE</b>$UPPERRIGHT_CONTENT</td>
+        </tr>
+        <tr style="border: 0px !important;">
+          <td valign="top" style="border: 0px !important;"><b>$LOWERLEFT_TITLE</b>$LOWERLEFT_CONTENT</td>
+          <td valign="top" style="border: 0px !important;"><b>$LOWERMIDDLE_TITLE</b>$LOWERMIDDLE_CONTENT</td>
+          <td valign="top" style="border: 0px !important;"><b>$LOWERRIGHT_TITLE</b>$LOWERRIGHT_CONTENT</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </details>
+  <hr><br>
+  <details>
+    <summary>Click to expand small tables section</summary>
+    <div align="center">
+
+### Small
+
+| title                            | status    | [something](https://example.com)                                                     | demo |   |
+|--------------------------------------|-----------|--------------------------------------------------------------------------------------|------|---|
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/osSEzqnmH9pMYEZibNe2K7ZL7" target="_blank">demo</a> |      |   |
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/rCiT9hXQ5IdwqOwg6rifyFZzb" target="_blank">demo</a> |      |   |
+| **[something](https://example.com)   |           |                                                                                      |      |   |
+| **[something](https://example.com)   | `content` | <a href="https://asciinema.org/a/314508" target="_blank">demo</a>                    |      |   |
+| **[something](https://example.com)** | beta      |                                                                                      |      |   |
+| **[something](https://example.com)** | alpha     |                                                                                      |      |   |
+| **[something](https://example.com)** | alpha     |                                                                                      |      |   |
+
+  </div>
+</details>
+</details>
+
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+
+</details>
+
+# Other
+
+## Contributing
+
+> > > > >   **Any contributions you make are Greatly Appreciated**
+>
+> *If you have a suggestion that would make this better,*
+> *please fork the repo and create a pull request*
+> *You can also simply open an issue*
+>
+> > > >   **thanks** ☻ 〠
+
+<br>
+
+1. Fork the Project
+2. Create your Feature Branch  . `git checkout -b feature/AmazingFeature`
+3. Commit your Changes: . . . .  `git commit -m 'Add some AmazingFeature'`
+4. Push to the Branch  . . . . . `git push origin feature/AmazingFeature`
+5. Then open a Pull Request
+
+<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
+<br>
+<footer>
+ <nav data-content="bottom">
+  <div align="right">
+   <div id="foot">
+    <span id="bottom">
+     <p>
+      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
+      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
+     </p>
+    </span>
+   </div>
+  </div>
+ <hr>
+ </nav>
+</footer>
+</div>
+<div align="center">
+  <b> 【𝐄𝐍𝐃】 </b>
+</div>
+
+
+<div align="center">
+ <span>
+  <hr>
+  <br>
+  <kbd>
+   <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
+   <a href="https://github.com/ConnerWill"><kbd> GitHub </kbd></a>
+   <a href="https://gitlab.com/ConnerWill"><kbd> GitLab </kbd></a>
+   <a href="https://github.com/ConnerWill?tab=repositories"><kbd> Repositories </kbd></a>
+   <a href="https://gist.github.com/ConnerWill"><kbd> Gists </kbd></a>
+   <a href="https://dampsock.com"><kbd> dampsock.com </kbd></a>
+   <a href="https://connerwill.com"><kbd> connerwill.com </kbd></a>
+   <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
+  </kbd>
+ </span>
+</div>
+
+:<a href="url" target="_blank">link</a>
+
+# test content
+
+As per the above, an h3 tag contains a div tag. The HTML content needs to replace with encoding characters in the heading tag with markdown syntax.
+
+### &lt;div&gt; test content &lt;div&gt;
+
+
+<!-- === URL Resources === -->
+<!-- {{repo_name}} GitHub Repository URL -->
+[{{repo_name}}]: https://github.com/ConnerWill/{{repo_name}}
+<!-- BADGES -->
+ <!-- GitHub Badges -->
+  <!-- LICENSE Badge -->
+[license]: https://img.shields.io/github/license/ConnerWill/packer-builder-arm
+[license-file]: https://github/ConnerWill/packer-builder-arm/blob/main/docs/LICENSE
+  <!-- GitHub Workflow Badges -->
+  <!-- GitHub Workflow ShellCheck Status Badges -->
+[github-workflow-shellcheck-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/ShellCheck
+[github-workflow-shellcheck]: https://github.com/ConnerWill/{{repo_name}}/actions
+  <!-- GitHub Workflow <ENTER_WORKFLOW_NAME> Status Badges -->
+[github-workflow-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/<ENTER_WORKFLOW_NAME>
+[github-workflow]: https://github.com/ConnerWill/{{repo_name}}/actions
+  <!-- GitHub Languages Badges -->
+[github-top-language]: https://img.shields.io/github/languages/top/ConnerWill/packer-builder-arm
+[github-language-count]: https://img.shields.io/github/languages/count/ConnerWill/packer-builder-arm
+  <!-- GitHub Languages Badges -->
+[github-last-commit]: https://img.shields.io/github/last-commit/ConnerWill/packer-builder-arm
+[github-issues]: https://img.shields.io/github/issues-raw/ConnerWill/packer-builder-arm
+[github-repo-size]: https://img.shields.io/github/repo-size/ConnerWill/packer-builder-arm
+  <!-- GitHub Stars Badges -->
+[github-repo-stars]: https://img.shields.io/github/stars/ConnerWill/packer-builder-arm?style=social
+  <!-- GitLab Badge -->
+[gitlab]: https://gitlab.com/ConnerWill/packer-builder-arm
+[gitlab-badge]: https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored
+ <!-- Travis CI Badges -->
+[travis-badge]: https://app.travis-ci.com/ConnerWill/packer-builder-arm.svg?branch=master
+[travis]: https://app.travis-ci.com/ConnerWill/packer-builder-arm/
+ <!-- Go Badges -->
+  <!-- GoDoc Badges -->
+[godoc-badge]: https://godoc.org/github.com/connerwill/packer-builder-arm?status.svg
+[godoc]: https://godoc.org/github.com/connerwill/packer-builder-arm
+  <!-- Go Report Card Badges -->
+[report-badge]: https://goreportcard.com/badge/github.com/connerwill/packer-builder-arm
+[report]: https://goreportcard.com/report/github.com/connerwill/packer-builder-arm
+ <!-- Docker Badges -->
+  <!-- Docker Image Badges -->
+[docker-pulls]: https://img.shields.io/docker/pulls/rl9uu6smkj/packer-builder-arm
+[docker-size]: https://img.shields.io/docker/image-size/rl9uu6smkj/packer-builder-arm
+  <!-- DockerHub Badges -->
+[docker-hub]: https://hub.docker.com/r/rl9uu6smkj/packer-builder-arm
+[docker-cloud-build-status]: https://img.shields.io/docker/cloud/build/rl9uu6smkj/packer-builder-arm
