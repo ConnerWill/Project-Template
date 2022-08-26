@@ -7,28 +7,27 @@
 ping <hostname>
 ```
 
----
+<br>
 
 > square brackets for optional parameters:
 ```shell
 mkdir [-p] <dirname>
 ```
 
----
+<br>
 
 > ellipses for repeated items:
 ```shell
 cp <source1> [source2...] <dest>
 ```
 
----
+<br>
 
-> vertical bars for choice of items:
+> vertical bars for choice of items (curly braces enclose mutually exclusive alternate values):
 ```shell
 netstat {-t|-u}
 ```
 
-> > (curly braces enclose mutually exclusive alternate values)
 
 ---
 
