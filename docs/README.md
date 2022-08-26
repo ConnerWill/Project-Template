@@ -72,7 +72,6 @@
   <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
 </div>
 
-<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 
 # Installation
 
@@ -96,7 +95,11 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 # Usage
 
+*USAGE INFORMATION*
+
 # Customization
+
+*CUSTOMIZATION INFORMATION*
 
 ### Hotkeys
 <!-- <kbd>``</kbd><b>  </b><br> -->
