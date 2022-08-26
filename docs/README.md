@@ -211,12 +211,13 @@ LOWERRIGHT_CONTENT="test"
   </div>
 </details>
 </details>
-
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
-
 </details>
 
 # Other
+
+<details>
+ <summary>Click to expand contributing</summary>
 
 ## Contributing
 
@@ -236,29 +237,9 @@ LOWERRIGHT_CONTENT="test"
 4. Push to the Branch  . . . . . `git push origin feature/AmazingFeature`
 5. Then open a Pull Request
 
-<p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+ <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
 <br>
-<footer>
- <nav data-content="bottom">
-  <div align="right">
-   <div id="foot">
-    <span id="bottom">
-     <p>
-      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
-      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
-     </p>
-    </span>
-   </div>
-  </div>
- <hr>
- </nav>
-</footer>
-</div>
-<div align="center">
-  <b> 【𝐄𝐍𝐃】 </b>
-</div>
-
 
 <div align="center">
  <hr>
@@ -277,6 +258,23 @@ LOWERRIGHT_CONTENT="test"
  </span>
  <hr>
 </div>
+
+
+<footer>
+ <nav data-content="bottom">
+  <div align="right">
+   <div id="foot">
+    <span id="bottom">
+     <p>
+      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
+      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
+     </p>
+    </span>
+   </div>
+  </div>
+ <hr>
+ </nav>
+</footer>
 
 
 # test content
