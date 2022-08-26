@@ -46,22 +46,22 @@ netstat {-t|-u}
 #   |------------------------------------------------------------
 #   |
 #   | angle brackets for required parameters:
-          ping <hostname>
+#   |     ping <hostname>
 #   |
 #   |------------------------------------------------------------
 #   |
 #   | square brackets for optional parameters:
-          mkdir [-p] <dirname>
+#   |     mkdir [-p] <dirname>
 #   |
 #   |------------------------------------------------------------
 #   |
 #   | ellipses for repeated items:
-          cp <source1> [source2...] <dest>
+#   |     cp <source1> [source2...] <dest>
 #   |
 #   |------------------------------------------------------------
 #   |
 #   | vertical bars for choice of items:
-          netstat {-t|-u}
+#   |     netstat {-t|-u}
 #   |
 #   | (curly braces enclose mutually exclusive alternate values)
 #   |
