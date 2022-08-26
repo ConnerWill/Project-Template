@@ -16,7 +16,6 @@
 > *Description of [*{{repo_name}}*][{{repo_name}}]*
 
 [![ShellCheck Workflow Status][github-workflow-shellcheck-badge]][github-workflow-shellcheck]
-<!--[![Workflow Status][github-workflow-badge]][github-workflow]-->
 [![License][license]][license-file]
 [![GitHub top language][github-top-language]][{{repo_name}}]
 [![GitHub language count][github-language-count]][{{repo_name}}]
@@ -25,6 +24,7 @@
 [![GitHub repo size][github-repo-size]][{{repo_name}}]
 [![GitHub Repo stars][github-repo-stars]][{{repo_name}}]
 [![GitLab][gitlab-badge]][gitlab]
+<!--[![Workflow Status][github-workflow-badge]][github-workflow]-->
 <!--[![GoDoc][godoc-badge]][godoc]-->
 <!--[![GoReportCard][report-badge]][report]-->
 <!--[![Docker Cloud Build Status][docker-cloud-build-status]][docker-hub]-->
