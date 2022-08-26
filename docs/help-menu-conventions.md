@@ -1,6 +1,3 @@
-
----
-
 # Help Menu Conventions
 
 Built-in usage help and man pages commonly employ a small syntax to describe the valid command form
