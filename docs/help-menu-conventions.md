@@ -27,7 +27,7 @@ cp <source1> [source2...] <dest>
 
 <br>
 
-> vertical bars for choice of items (curly braces enclose mutually exclusive alternate values):
+> vertical bars for choice of items *(curly braces enclose mutually exclusive alternate values)*:
 ```shell
 netstat {-t|-u}
 ```
