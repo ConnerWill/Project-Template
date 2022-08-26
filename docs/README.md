@@ -240,7 +240,19 @@ LOWERRIGHT_CONTENT="test"
  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
 <br>
-
+<nav data-content="bottom">
+  <div align="right">
+   <div id="foot">
+    <span id="bottom">
+     <p>
+      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
+      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
+     </p>
+    </span>
+   </div>
+  </div>
+ <hr>
+</nav>
 <div align="center">
  <hr>
  <span>
@@ -258,30 +270,6 @@ LOWERRIGHT_CONTENT="test"
  </span>
  <hr>
 </div>
-
-
-<footer>
- <nav data-content="bottom">
-  <div align="right">
-   <div id="foot">
-    <span id="bottom">
-     <p>
-      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
-      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
-     </p>
-    </span>
-   </div>
-  </div>
- <hr>
- </nav>
-</footer>
-
-
-# test content
-
-As per the above, an h3 tag contains a div tag. The HTML content needs to replace with encoding characters in the heading tag with markdown syntax.
-
-### &lt;div&gt; test content &lt;div&gt;
 
 
 <!-- === URL Resources === -->
