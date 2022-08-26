@@ -210,8 +210,8 @@ LOWERRIGHT_CONTENT="test"
 
   </div>
 </details>
-</details>
 <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
+</details>
 </details>
 
 # Other
@@ -251,7 +251,6 @@ LOWERRIGHT_CONTENT="test"
     </span>
    </div>
   </div>
- <hr>
 </nav>
 <div align="center">
  <hr>
@@ -268,7 +267,6 @@ LOWERRIGHT_CONTENT="test"
    <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
   </kbd>
  </span>
- <hr>
 </div>
 
 
