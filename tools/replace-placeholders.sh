@@ -46,37 +46,4 @@ function replace-placeholders(){
   fi
 
 }
-printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mreplace-placeholders \e[0;3;38;5;201m"{{repo_name}}" \e[0;3;38;5;51m"<REPLACE>"\e[0m\n\n' \
-
-#### OLD VERSION ####
-# #!/bin/bash
-# PLACEHOLDER="{{repo_name}}"
-# NEWREPONAME=""
-# FILENAME="README-test.md"
-# function _replace_placeholder_template(){
-#
-#   [[ -z "$PLACEHOLDER" ]] \
-#     && printf "'PLACEHOLDER' is undefined\n" \
-#     && return 1
-#
-#   [[ ! -f "$FILENAME" ]] \
-#     && printf "Cannot find '%s'\n" "$FILENAME" \
-#     && return 1
-#
-#   [[ -z "$NEWREPONAME" ]] \
-#     && read -r -p "Enter the name of your project: " NEWREPONAME
-#
-#   printf "Press 'Y/y' to replace placeholder '%s' with '%s' in '%s'\n" "$PLACEHOLDER" "$NEWREPONAME" "$FILENAME"
-#   read -r -s -t 10 CONFIRMREPLACE
-#
-#   [[ ! "$CONFIRMREPLACE" == "y" || ! "$CONFIRMREPLACE" == "Y" ]] \
-#     &&  printf "Exiting ...\n" \
-#     && return 0
-#
-#   sed -i -e "s/${PLACEHOLDER}/${NEWREPONAME}/g" ${FILENAME} \
-#     && printf "DONE :)\n" \
-#     && return 0 \
-#     || return 1
-# }
-# _replace_placeholder_template
-
+printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mreplace-placeholders \e[0;3;38;5;201m"{{repo_name}}" \e[0;3;38;5;51m"<REPLACE>"\e[0m\n\n'
