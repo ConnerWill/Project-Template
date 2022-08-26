@@ -98,10 +98,11 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 # Customization
 
-### Hotkeys <kbd>``</kbd><b>  </b><br>
+### Hotkeys
+<!-- <kbd>``</kbd><b>  </b><br> -->
 
 <details>
-<summary>Click to expand hotkeys section <b>  </b></summary>
+<summary>Click to expand hotkeys</summary>
 <div align="center">
 <kbd>`↑`</kbd><br>
 <kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>
