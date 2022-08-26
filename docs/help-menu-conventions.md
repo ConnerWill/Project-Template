@@ -2,8 +2,7 @@
 
 Built-in usage help and man pages commonly employ a small syntax to describe the valid command form
 
-***Notice that these characters have different meanings than when used directly in the shell.***
-
+**Notice that these characters have different meanings than when used directly in the shell.**
 *Angle brackets may be omitted when confusing the parameter name with a literal string is not likely.*
 
 <br>
