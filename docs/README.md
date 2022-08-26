@@ -101,10 +101,8 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 ### Hotkeys <kbd>``</kbd><b>  </b><br>
 
 <details>
-  <summary>Click to expand hotkeys section <b>  </b></summary>
-
+<summary>Click to expand hotkeys section <b>  </b></summary>
 <div align="center">
-
 <kbd>`↑`</kbd><br>
 <kbd>`←`</kbd><kbd>`↓`</kbd><kbd>`→`</kbd><br><br>
 <kbd>`h`</kbd><kbd>`j`</kbd><kbd>`k`</kbd><kbd>`l`</kbd><br><br>
@@ -115,7 +113,6 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>`~`</kbd> <kbd>`FN`</kbd> <kbd>`F1`</kbd><br>
 <kbd>`CAPSLOCK`</kbd> <kbd>`ESC`</kbd><br>
 <kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br>
-
 </div>
 </details>
 
@@ -124,8 +121,6 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 <details>
   <summary>Click to expand variables section</summary>
-
-> *(https://connerwill.com)*
 
 **```ENVVAR```**
 : *<kbd>string</kbd>*
