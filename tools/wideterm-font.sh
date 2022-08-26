@@ -7,7 +7,7 @@ function wideterm-font(){
     _inputtext_no_input_error         \
     _inputtext_toilet_not_found_error
   toilet_font="wideterm"
-  _inputtext_no_input_error='No Search String Received'
+  _inputtext_no_input_error='No Input Text Received'
   _inputtext_toilet_not_found_error='Cannot find "toilet" in PATH'
   inputtext="$1"
   [[ -z "$inputtext" ]] \
@@ -24,4 +24,10 @@ function wideterm-font(){
     return 1
   fi
 }
-printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mwideterm-font \e[0;3;38;5;51m"{{repo_name}}"\e[0m\n\n'
+(return 0 2>/dev/null) && sourced=1 || sourced=0
+if [[ $sourced -eq 1 ]]; then
+  printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mwideterm-font \e[0;3;38;5;51m"{{repo_name}}"\e[0m\n\n'
+elif [[ $sourced -eq 0 ]]; then
+  wideterm-font "${*}" \
+    || printf '\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190m%s \e[0;3;38;5;51m"{{repo_name}}"\e[0m\n\n' "${0}"
+fi

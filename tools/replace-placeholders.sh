@@ -36,4 +36,10 @@ function replace-placeholders(){
     fi
   fi
 }
-printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mreplace-placeholders \e[0;3;38;5;201m"{{repo_name}}" \e[0;3;38;5;51m"<REPLACE>"\e[0m\n\n'
+(return 0 2>/dev/null) && sourced=1 || sourced=0
+if [[ $sourced -eq 1 ]]; then
+  printf '\n\e[0;38;5;15mRun the command:\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190mreplace-placeholders \e[0;3;38;5;201m"{{repo_name}}" \e[0;3;38;5;51m"<REPLACE>"\e[0m\n\n'
+elif [[ $sourced -eq 0 ]]; then
+  replace-placeholders "${*}" \
+    || printf '\n\n\t\e[0;38;5;245m$  \e[0;1;38;5;190m%s \e[0;3;38;5;201m"{{repo_name}}" \e[0;3;38;5;51m"<REPLACE>"\e[0m\n\n' "${0}"
+fi
