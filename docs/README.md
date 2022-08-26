@@ -40,6 +40,8 @@
 <details>
   <summary>Expand Table of Contents</summary>
 
+  <hr>
+
 * [{{repo_name}}](#{{repo_name}})
 * [Table of Contents](#table-of-contents)
 * [Overview](#overview)
