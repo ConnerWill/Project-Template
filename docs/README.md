@@ -1,7 +1,7 @@
-<!-- {{repo_name}} - README.md -->
+<!-- Project-Template - README.md -->
 
 <!--
-  NAME:         {{repo_name}}
+  NAME:         Project-Template
   AUTHOR:       ConnerWill
   DATE:         2022-09-01
   DESCRIPTION:  "Description of project"
@@ -11,19 +11,19 @@
 <div align="center">
   <img width="480" height="320" src="assets/banner.png">
 
-# **{{repo_name}}**
+# **Project-Template**
 
-> *Description of [*{{repo_name}}*][{{repo_name}}]*
+> *Description of [*Project-Template*][Project-Template]*
 
 [![ShellCheck Workflow Status][github-workflow-shellcheck-badge]][github-workflow-shellcheck]
 <!--[![Workflow Status][github-workflow-badge]][github-workflow]-->
 [![License][license]][license-file]
-[![GitHub top language][github-top-language]][{{repo_name}}]
-[![GitHub language count][github-language-count]][{{repo_name}}]
-[![GitHub last commit][github-last-commit]][{{repo_name}}]
-[![GitHub issues][github-issues]][{{repo_name}}]
-[![GitHub repo size][github-repo-size]][{{repo_name}}]
-[![GitHub Repo stars][github-repo-stars]][{{repo_name}}]
+[![GitHub top language][github-top-language]][Project-Template]
+[![GitHub language count][github-language-count]][Project-Template]
+[![GitHub last commit][github-last-commit]][Project-Template]
+[![GitHub issues][github-issues]][Project-Template]
+[![GitHub repo size][github-repo-size]][Project-Template]
+[![GitHub Repo stars][github-repo-stars]][Project-Template]
 [![GitLab][gitlab-badge]][gitlab]
 <!--[![GoDoc][godoc-badge]][godoc]-->
 <!--[![GoReportCard][report-badge]][report]-->
@@ -40,7 +40,7 @@
 <details>
   <summary>Expand Table of Contents</summary>
 
-* [{{repo_name}}](#{{repo_name}})
+* [Project-Template](#Project-Template)
 * [Table of Contents](#table-of-contents)
 * [Overview](#overview)
   * [Description](##description)
@@ -91,7 +91,7 @@
 1. Clone this repository
 
 ```console
-git clone https://github.com/ConnerWill/{{repo_name}}.git
+git clone https://github.com/ConnerWill/Project-Template.git
 ```
 
 # Usage
@@ -246,7 +246,7 @@ LOWERRIGHT_CONTENT="test"
     <span id="bottom">
      <p>
       <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
-      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
+      <a href="https://github.com/ConnerWill/Project-Template"><em>Project-Template</em></a>
      </p>
     </span>
    </div>
@@ -287,46 +287,46 @@ As per the above, an h3 tag contains a div tag. The HTML content needs to replac
 
 
 <!-- === URL Resources === -->
-<!-- {{repo_name}} GitHub Repository URL -->
-[{{repo_name}}]: https://github.com/ConnerWill/{{repo_name}}
+<!-- Project-Template GitHub Repository URL -->
+[Project-Template]: https://github.com/ConnerWill/Project-Template
 <!-- BADGES -->
  <!-- GitHub Badges -->
   <!-- LICENSE Badge -->
-[license]: https://img.shields.io/github/license/ConnerWill/{{repo_name}}
-[license-file]: https://github/ConnerWill/{{repo_name}}/blob/main/docs/LICENSE
+[license]: https://img.shields.io/github/license/ConnerWill/Project-Template
+[license-file]: https://github/ConnerWill/Project-Template/blob/main/docs/LICENSE
   <!-- GitHub Workflow Badges -->
   <!-- GitHub Workflow ShellCheck Status Badges -->
-[github-workflow-shellcheck-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/ShellCheck
-[github-workflow-shellcheck]: https://github.com/ConnerWill/{{repo_name}}/actions
+[github-workflow-shellcheck-badge]: https://img.shields.io/github/workflow/status/ConnerWill/Project-Template/ShellCheck
+[github-workflow-shellcheck]: https://github.com/ConnerWill/Project-Template/actions
   <!-- GitHub Workflow <ENTER_WORKFLOW_NAME> Status Badges -->
-[github-workflow-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/<ENTER_WORKFLOW_NAME>
-[github-workflow]: https://github.com/ConnerWill/{{repo_name}}/actions
+[github-workflow-badge]: https://img.shields.io/github/workflow/status/ConnerWill/Project-Template/<ENTER_WORKFLOW_NAME>
+[github-workflow]: https://github.com/ConnerWill/Project-Template/actions
   <!-- GitHub Languages Badges -->
-[github-top-language]: https://img.shields.io/github/languages/top/ConnerWill/{{repo_name}}
-[github-language-count]: https://img.shields.io/github/languages/count/ConnerWill/{{repo_name}}
+[github-top-language]: https://img.shields.io/github/languages/top/ConnerWill/Project-Template
+[github-language-count]: https://img.shields.io/github/languages/count/ConnerWill/Project-Template
   <!-- GitHub Languages Badges -->
-[github-last-commit]: https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}}
-[github-issues]: https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}}
-[github-repo-size]: https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}}
+[github-last-commit]: https://img.shields.io/github/last-commit/ConnerWill/Project-Template
+[github-issues]: https://img.shields.io/github/issues-raw/ConnerWill/Project-Template
+[github-repo-size]: https://img.shields.io/github/repo-size/ConnerWill/Project-Template
   <!-- GitHub Stars Badges -->
-[github-repo-stars]: https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social
+[github-repo-stars]: https://img.shields.io/github/stars/ConnerWill/Project-Template?style=social
   <!-- GitLab Badge -->
-[gitlab]: https://gitlab.com/ConnerWill/{{repo_name}}
+[gitlab]: https://gitlab.com/ConnerWill/Project-Template
 [gitlab-badge]: https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored
  <!-- Travis CI Badges -->
-[travis-badge]: https://app.travis-ci.com/ConnerWill/{{repo_name}}.svg?branch=master
-[travis]: https://app.travis-ci.com/ConnerWill/{{repo_name}}/
+[travis-badge]: https://app.travis-ci.com/ConnerWill/Project-Template.svg?branch=master
+[travis]: https://app.travis-ci.com/ConnerWill/Project-Template/
  <!-- Go Badges -->
   <!-- GoDoc Badges -->
-[godoc-badge]: https://godoc.org/github.com/connerwill/{{repo_name}}?status.svg
-[godoc]: https://godoc.org/github.com/connerwill/{{repo_name}}
+[godoc-badge]: https://godoc.org/github.com/connerwill/Project-Template?status.svg
+[godoc]: https://godoc.org/github.com/connerwill/Project-Template
   <!-- Go Report Card Badges -->
-[report-badge]: https://goreportcard.com/badge/github.com/connerwill/{{repo_name}}
-[report]: https://goreportcard.com/report/github.com/connerwill/{{repo_name}}
+[report-badge]: https://goreportcard.com/badge/github.com/connerwill/Project-Template
+[report]: https://goreportcard.com/report/github.com/connerwill/Project-Template
  <!-- Docker Badges -->
   <!-- Docker Image Badges -->
-[docker-pulls]: https://img.shields.io/docker/pulls/rl9uu6smkj/{{repo_name}}
-[docker-size]: https://img.shields.io/docker/image-size/rl9uu6smkj/{{repo_name}}
+[docker-pulls]: https://img.shields.io/docker/pulls/rl9uu6smkj/Project-Template
+[docker-size]: https://img.shields.io/docker/image-size/rl9uu6smkj/Project-Template
   <!-- DockerHub Badges -->
-[docker-hub]: https://hub.docker.com/r/rl9uu6smkj/{{repo_name}}
-[docker-cloud-build-status]: https://img.shields.io/docker/cloud/build/rl9uu6smkj/{{repo_name}}
+[docker-hub]: https://hub.docker.com/r/rl9uu6smkj/Project-Template
+[docker-cloud-build-status]: https://img.shields.io/docker/cloud/build/rl9uu6smkj/Project-Template
