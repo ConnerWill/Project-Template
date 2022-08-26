@@ -270,7 +270,7 @@ LOWERRIGHT_CONTENT="test"
    <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
   </kbd>
  </span>
- <br>
+ <hr>
 </div>
 
 
