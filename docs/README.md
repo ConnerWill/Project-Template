@@ -52,7 +52,7 @@
 * [Usage](#usage)
 * [Customization](#customization)
   * [Configuration File](##configuration-file)
-    * [Hotkeys](###hotkeys)
+  * [Hotkeys](###hotkeys)
   * [Environment Variables](#environment-variables)
 * [Other](#other)
 
@@ -64,9 +64,11 @@
 
 ## Description
 
-*ENTER DESCRIPTION HERE*
+*PROJECT DESCRIPTION*
 
 ## Demo
+
+*DESCRIPTION OF DEMO*
 
 <div align="center">
   <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
@@ -75,9 +77,11 @@
 
 # Installation
 
-*HOW TO INSTALL*
+*INSTALLATION INFORMATION*
 
 ## Dependencies
+
+*DEPENDENCIES INFORMATION*
 
 : dependency-1
 : *dependency-1 description*
@@ -86,6 +90,8 @@
 : *dependency-2 description
 
 ## Setup
+
+*SETUP INFORMATION*
 
 1. Clone this repository
 
@@ -101,7 +107,10 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 *CUSTOMIZATION INFORMATION*
 
-### Hotkeys
+## Hotkeys
+
+*HOTKEYS INFORMATION*
+
 <!-- <kbd>``</kbd><b>  </b><br> -->
 
 <details>
@@ -123,8 +132,10 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 ## Environment Variables
 
+*ENVIRONMENT VARIABLES INFORMATION*
+
 <details>
-  <summary>Click to expand variables section</summary>
+  <summary>Click to expand environment variables</summary>
 
 **```ENVVAR```**
 : *<kbd>string</kbd>*
