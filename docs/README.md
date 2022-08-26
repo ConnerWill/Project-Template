@@ -261,8 +261,8 @@ LOWERRIGHT_CONTENT="test"
 
 
 <div align="center">
+ <hr>
  <span>
-  <hr>
   <br>
   <kbd>
    <a href="https://connerwill.com"><kbd>→ <kbd> π </kbd></kbd></a>
@@ -275,9 +275,9 @@ LOWERRIGHT_CONTENT="test"
    <a href="https://connerwill.com"><kbd><kbd> &infin; </kbd> ← </kbd></a>
   </kbd>
  </span>
+ <hr>
 </div>
 
-:<a href="url" target="_blank">link</a>
 
 # test content
 
