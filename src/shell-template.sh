@@ -10,7 +10,26 @@
 
 ### Options ###{{{
 
-set -
+    #set -e
+    #set -o errexit
+    ## Exit immediately if a command exits with a non-zero status
+
+    #set -n
+    ## Read commands but do not execute them.
+
+    #set -v
+    #set -o verbose
+    ##  Print shell input lines as they are read.
+
+    #set -x
+    #set -o xtrace
+    ## Print commands and their arguments as they are executed.
+
+    # Using + rather than - causes these flags to be turned off.  The
+    # flags can also be used upon invocation of the shell.  The current
+    # set of flags may be found in $-.  The remaining n ARGs are positional
+    # parameters and are assigned, in order, to $1, $2, .. $n.  If no
+    # ARGs are given, all shell variables are printed.
 
 ### Options ###}}}
 
@@ -34,52 +53,8 @@ VERBOSE_SLEEPTIME=1 ## How long to sleep (seconds) after displaying VERBOSE outp
 ### Help Menu ###{{{
 
 function help_menu(){
-
-  printf "
-  
-
-
-
-
-
-
-
-  "
-
-
+  printf "HELP MENU\n"
 }
-
-
-#  ===============================================================
-#  |                    HELP MENU STANDARDS
-#  |==============================================================
-#  |------------------------------------------------------------
-#  |
-#  | angle brackets for required parameters:
-#  |     ping <hostname>
-#  |
-#  |------------------------------------------------------------
-#  |
-#  | square brackets for optional parameters:
-#  |     mkdir [-p] <dirname>
-#  |
-#  |------------------------------------------------------------
-#  |
-#  | ellipses for repeated items:
-#  |     cp <source1> [source2...] <dest>
-#  |
-#  |------------------------------------------------------------
-#  |
-#  | vertical bars for choice of items:
-#  |     netstat {-t|-u}
-#  |
-#  | (curly braces enclose mutually exclusive alternate values)
-#  |
-#  |------------------------------------------------------------
-#  |==============================================================
-#  |                    HELP MENU STANDARDS
-#  ===============================================================
-
 
 ### Help Menu ###}}}
 
@@ -206,28 +181,6 @@ function remove_files(){
 
 #### CLEANUP ####}}}
 
-
-
-    set -e
-    set -o errexit
-    ## Exit immediately if a command exits with a non-zero status
-
-    set -n
-    ## Read commands but do not execute them.
-
-    set -v
-    set -o verbose
-    ##  Print shell input lines as they are read.
-
-    set -x
-    set -o xtrace
-    ## Print commands and their arguments as they are executed.
-
-    # Using + rather than - causes these flags to be turned off.  The
-    # flags can also be used upon invocation of the shell.  The current
-    # set of flags may be found in $-.  The remaining n ARGs are positional
-    # parameters and are assigned, in order, to $1, $2, .. $n.  If no
-    # ARGs are given, all shell variables are printed.
 
 
 
