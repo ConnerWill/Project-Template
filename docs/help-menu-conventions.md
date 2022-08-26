@@ -1,25 +1,36 @@
 # Help Menu Conventions
 
+---
+
 > angle brackets for required parameters:
 ```shell
 ping <hostname>
 ```
+
+---
 
 > square brackets for optional parameters:
 ```shell
 mkdir [-p] <dirname>
 ```
 
+---
+
 > ellipses for repeated items:
 ```shell
 cp <source1> [source2...] <dest>
 ```
 
+---
+
 > vertical bars for choice of items:
-> > (curly braces enclose mutually exclusive alternate values)
 ```shell
 netstat {-t|-u}
 ```
+
+> > (curly braces enclose mutually exclusive alternate values)
+
+---
 
 
 <details>
