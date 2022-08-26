@@ -292,8 +292,8 @@ As per the above, an h3 tag contains a div tag. The HTML content needs to replac
 <!-- BADGES -->
  <!-- GitHub Badges -->
   <!-- LICENSE Badge -->
-[license]: https://img.shields.io/github/license/ConnerWill/packer-builder-arm
-[license-file]: https://github/ConnerWill/packer-builder-arm/blob/main/docs/LICENSE
+[license]: https://img.shields.io/github/license/ConnerWill/{{repo_name}}
+[license-file]: https://github/ConnerWill/{{repo_name}}/blob/main/docs/LICENSE
   <!-- GitHub Workflow Badges -->
   <!-- GitHub Workflow ShellCheck Status Badges -->
 [github-workflow-shellcheck-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/ShellCheck
@@ -302,31 +302,31 @@ As per the above, an h3 tag contains a div tag. The HTML content needs to replac
 [github-workflow-badge]: https://img.shields.io/github/workflow/status/ConnerWill/{{repo_name}}/<ENTER_WORKFLOW_NAME>
 [github-workflow]: https://github.com/ConnerWill/{{repo_name}}/actions
   <!-- GitHub Languages Badges -->
-[github-top-language]: https://img.shields.io/github/languages/top/ConnerWill/packer-builder-arm
-[github-language-count]: https://img.shields.io/github/languages/count/ConnerWill/packer-builder-arm
+[github-top-language]: https://img.shields.io/github/languages/top/ConnerWill/{{repo_name}}
+[github-language-count]: https://img.shields.io/github/languages/count/ConnerWill/{{repo_name}}
   <!-- GitHub Languages Badges -->
-[github-last-commit]: https://img.shields.io/github/last-commit/ConnerWill/packer-builder-arm
-[github-issues]: https://img.shields.io/github/issues-raw/ConnerWill/packer-builder-arm
-[github-repo-size]: https://img.shields.io/github/repo-size/ConnerWill/packer-builder-arm
+[github-last-commit]: https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}}
+[github-issues]: https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}}
+[github-repo-size]: https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}}
   <!-- GitHub Stars Badges -->
-[github-repo-stars]: https://img.shields.io/github/stars/ConnerWill/packer-builder-arm?style=social
+[github-repo-stars]: https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social
   <!-- GitLab Badge -->
-[gitlab]: https://gitlab.com/ConnerWill/packer-builder-arm
+[gitlab]: https://gitlab.com/ConnerWill/{{repo_name}}
 [gitlab-badge]: https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored
  <!-- Travis CI Badges -->
-[travis-badge]: https://app.travis-ci.com/ConnerWill/packer-builder-arm.svg?branch=master
-[travis]: https://app.travis-ci.com/ConnerWill/packer-builder-arm/
+[travis-badge]: https://app.travis-ci.com/ConnerWill/{{repo_name}}.svg?branch=master
+[travis]: https://app.travis-ci.com/ConnerWill/{{repo_name}}/
  <!-- Go Badges -->
   <!-- GoDoc Badges -->
-[godoc-badge]: https://godoc.org/github.com/connerwill/packer-builder-arm?status.svg
-[godoc]: https://godoc.org/github.com/connerwill/packer-builder-arm
+[godoc-badge]: https://godoc.org/github.com/connerwill/{{repo_name}}?status.svg
+[godoc]: https://godoc.org/github.com/connerwill/{{repo_name}}
   <!-- Go Report Card Badges -->
-[report-badge]: https://goreportcard.com/badge/github.com/connerwill/packer-builder-arm
-[report]: https://goreportcard.com/report/github.com/connerwill/packer-builder-arm
+[report-badge]: https://goreportcard.com/badge/github.com/connerwill/{{repo_name}}
+[report]: https://goreportcard.com/report/github.com/connerwill/{{repo_name}}
  <!-- Docker Badges -->
   <!-- Docker Image Badges -->
-[docker-pulls]: https://img.shields.io/docker/pulls/rl9uu6smkj/packer-builder-arm
-[docker-size]: https://img.shields.io/docker/image-size/rl9uu6smkj/packer-builder-arm
+[docker-pulls]: https://img.shields.io/docker/pulls/rl9uu6smkj/{{repo_name}}
+[docker-size]: https://img.shields.io/docker/image-size/rl9uu6smkj/{{repo_name}}
   <!-- DockerHub Badges -->
-[docker-hub]: https://hub.docker.com/r/rl9uu6smkj/packer-builder-arm
-[docker-cloud-build-status]: https://img.shields.io/docker/cloud/build/rl9uu6smkj/packer-builder-arm
+[docker-hub]: https://hub.docker.com/r/rl9uu6smkj/{{repo_name}}
+[docker-cloud-build-status]: https://img.shields.io/docker/cloud/build/rl9uu6smkj/{{repo_name}}
