@@ -240,18 +240,6 @@ LOWERRIGHT_CONTENT="test"
  <p align="right">⦗ <a href="#top">𝔟𝔞𝔠𝔨 𝔱𝔬 𝔱𝔬𝔭 ⤒</a> ⦘</p>
 </details>
 <br>
-<nav data-content="bottom">
-  <div align="right">
-   <div id="foot">
-    <span id="bottom">
-     <p>
-      <a href="https://github.com/ConnerWill"><em>ConnerWill</em></a>
-      <a href="https://github.com/ConnerWill/{{repo_name}}"><em>{{repo_name}}</em></a>
-     </p>
-    </span>
-   </div>
-  </div>
-</nav>
 <div align="center">
  <hr>
  <span>
