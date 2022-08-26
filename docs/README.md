@@ -4,12 +4,16 @@
   NAME:         {{repo_name}}
   AUTHOR:       ConnerWill
   DATE:         2022-09-01
-  DESCRIPTION:  "Description of project"
+  DESCRIPTION:  "<DESCRIPTION_OF_PROJECT>"
   DOCS:         docs/README.md
 -->
 
 <div align="center">
   <img width="480" height="320" src="assets/banner.png">
+
+# **Ｐｒｏｊｅｃｔ－Ｔｅｍｐｌａｔｅ**
+
+# **｛｛ｒｅｐｏ＿ｎａｍｅ｝｝**
 
 # **{{repo_name}}**
 
