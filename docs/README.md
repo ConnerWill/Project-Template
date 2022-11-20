@@ -25,8 +25,8 @@
 [![GitHub top language][github-top-language]][{{repo_name}}]
 [![GitHub language count][github-language-count]][{{repo_name}}]
 [![GitHub last commit][github-last-commit]][{{repo_name}}]
-[![GitHub issues][github-issues]][{{repo_name}}]
 [![GitHub repo size][github-repo-size]][{{repo_name}}]
+[![GitHub issues][github-issues]][{{repo_name}}]
 [![GitHub Repo stars][github-repo-stars]][{{repo_name}}]
 [![GitLab][gitlab-badge]][gitlab]
 <!--[![Workflow Status][github-workflow-badge]][github-workflow]-->
