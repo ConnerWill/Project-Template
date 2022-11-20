@@ -41,7 +41,7 @@
   <hr>
 </div>
 
-# Table of Contents
+# ➤ Table of Contents
 
 <details>
   <summary>Expand Table of Contents</summary>
@@ -71,7 +71,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
-# Overview
+#  ➤ Overview
 
 ## Description
 
@@ -87,7 +87,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
-# Setup
+# ➤ Setup
 
 *SETUP INFORMATION*
 
@@ -113,7 +113,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
-# Usage
+# ➤ Usage
 
 *USAGE INFORMATION*
 
@@ -241,7 +241,7 @@ LOWERRIGHT_CONTENT="test"
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
-# Other
+# ➤ Other
 
 <details>
  <summary>Click to expand contributing</summary>
