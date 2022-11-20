@@ -19,6 +19,10 @@
 
 > *Description of [*{{repo_name}}*][{{repo_name}}]*
 
+<br />
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## ➤ Table of Contents
 [![ShellCheck Workflow Status][github-workflow-shellcheck-badge]][github-workflow-shellcheck]
 [![License][license]][license-file]
 [![GitHub top language][github-top-language]][{{repo_name}}]
