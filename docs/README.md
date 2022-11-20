@@ -12,11 +12,10 @@
   <img width="480" height="320" src="../assets/banner.png">
 
 # **Ｐｒｏｊｅｃｔ－Ｔｅｍｐｌａｔｅ**
-
-# **｛｛ｒｅｐｏ＿ｎａｍｅ｝｝**
-
+<!---
 # **{{repo_name}}**
-
+--->
+  
 > *Description of [*{{repo_name}}*][{{repo_name}}]*
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
@@ -69,6 +68,8 @@
   <hr>
 </details>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
+
 # Overview
 
 ## Description
@@ -83,6 +84,7 @@
   <img width="1190" height="780" src="assets/replace-placeholders-demo.gif">
 </div>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
 # Setup
 
@@ -108,6 +110,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 : dependency-2
 : *dependency-2 description
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
 # Usage
 
@@ -138,6 +141,7 @@ git clone https://github.com/ConnerWill/{{repo_name}}.git
 <kbd>`BACKSPACE`</kbd> <kbd>`DEL`</kbd><br>
 </div>
 </details>
+
 
 
 ### Environment Variables
@@ -234,6 +238,8 @@ LOWERRIGHT_CONTENT="test"
 </details>
 </details>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
+
 # Other
 
 <details>
@@ -278,6 +284,8 @@ LOWERRIGHT_CONTENT="test"
  </span>
  <hr>
 </div>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/ConnerWill/Project-Template/main/assets/lines/rainbow.png)](#{{repo_name}})
 
 
 <!-- === URL Resources === -->
